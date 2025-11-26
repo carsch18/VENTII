@@ -1,0 +1,29 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+*.log
+.env
+
+# Keep data files
+!dataset.json
+!dataset_enhanced.json
+!embeddings.npy
+!vectorizer.pkl
+!search_results.json

@@ -1,0 +1,480 @@
+{
+  "wireless headphones for music": {
+    "results": [
+      {
+        "rank": 1,
+        "id": 74,
+        "title": "Portable Microphone",
+        "description": "Versatile microphone suitable for multiple purposes",
+        "category": "Music",
+        "tags": [
+          "compact",
+          "wireless",
+          "modern",
+          "beginner-friendly",
+          "premium"
+        ],
+        "price": 179.44,
+        "rating": 4.0,
+        "semantic_score": 0.999999999763889,
+        "lexical_score": 0.9605003135754714,
+        "final_score": 0.9881500939073637
+      },
+      {
+        "rank": 2,
+        "id": 2,
+        "title": "Practice Drum",
+        "description": "Compact drum ideal for limited spaces",
+        "category": "Music",
+        "tags": [
+          "modern",
+          "affordable",
+          "wireless",
+          "vintage",
+          "handcrafted"
+        ],
+        "price": 416.54,
+        "rating": 4.1,
+        "semantic_score": 0.8393731848873023,
+        "lexical_score": 0.9999999998194044,
+        "final_score": 0.8875612293669328
+      },
+      {
+        "rank": 3,
+        "id": 98,
+        "title": "Stage Synthesizer",
+        "description": "Compact synthesizer ideal for limited spaces",
+        "category": "Music",
+        "tags": [
+          "wireless",
+          "premium",
+          "handcrafted"
+        ],
+        "price": 298.89,
+        "rating": 5.0,
+        "semantic_score": 0.8056965977966781,
+        "lexical_score": 0.9870502560271374,
+        "final_score": 0.8601026952658158
+      },
+      {
+        "rank": 4,
+        "id": 45,
+        "title": "Professional Ukulele",
+        "description": "Elegant ukulele that enhances any setting",
+        "category": "Music",
+        "tags": [
+          "premium",
+          "wireless",
+          "vintage",
+          "full-size"
+        ],
+        "price": 390.01,
+        "rating": 4.1,
+        "semantic_score": 0.911724159926278,
+        "lexical_score": 0.7273899714283759,
+        "final_score": 0.8564239033769073
+      },
+      {
+        "rank": 5,
+        "id": 88,
+        "title": "Student Drum",
+        "description": "Affordable drum without compromising quality",
+        "category": "Music",
+        "tags": [
+          "affordable",
+          "beginner-friendly",
+          "wireless"
+        ],
+        "price": 133.57,
+        "rating": 4.7,
+        "semantic_score": 0.7150104483480996,
+        "lexical_score": 0.9427608190728441,
+        "final_score": 0.7833355595655229
+      }
+    ],
+    "explanation": "These results seem to be unrelated to the original query \"wireless headphones for music\" because the top words \"Portable Microphone\", \"Practice Drum\", and \"Stage Synthesizer\" are not headphones but rather other music-related accessories or equipment. This suggests that the search query may have had some kind of error or the search results were not accurate."
+  },
+  "organic healthy food products": {
+    "results": [
+      {
+        "rank": 1,
+        "id": 53,
+        "title": "Whole Grain Rice",
+        "description": "Professional-grade rice for serious users",
+        "category": "Food",
+        "tags": [
+          "imported",
+          "healthy",
+          "gourmet",
+          "exotic"
+        ],
+        "price": 322.38,
+        "rating": 4.7,
+        "semantic_score": 0.9999999996546023,
+        "lexical_score": 0.9767676455711144,
+        "final_score": 0.9930302934295558
+      },
+      {
+        "rank": 2,
+        "id": 109,
+        "title": "Premium Coffee",
+        "description": "Durable coffee built to last",
+        "category": "Food",
+        "tags": [
+          "exotic",
+          "gourmet",
+          "nutritious",
+          "instant",
+          "healthy"
+        ],
+        "price": 427.94,
+        "rating": 3.8,
+        "semantic_score": 0.8261847059611463,
+        "lexical_score": 0.9999999997301717,
+        "final_score": 0.8783292940918539
+      },
+      {
+        "rank": 3,
+        "id": 156,
+        "title": "Premium Snacks",
+        "description": "Premium snacks designed for maximum comfort and performance",
+        "category": "Food",
+        "tags": [
+          "local",
+          "imported",
+          "healthy"
+        ],
+        "price": 86.32,
+        "rating": 3.6,
+        "semantic_score": 0.7835651586831881,
+        "lexical_score": 0.9832124068052681,
+        "final_score": 0.8434593331198121
+      },
+      {
+        "rank": 4,
+        "id": 184,
+        "title": "Frozen Tea",
+        "description": "Versatile tea suitable for multiple purposes",
+        "category": "Food",
+        "tags": [
+          "exotic",
+          "gourmet",
+          "nutritious",
+          "delicious",
+          "healthy"
+        ],
+        "price": 415.29,
+        "rating": 4.7,
+        "semantic_score": 0.7800722934304737,
+        "lexical_score": 0.9818365874043326,
+        "final_score": 0.8406015816226313
+      },
+      {
+        "rank": 5,
+        "id": 198,
+        "title": "Premium Rice",
+        "description": "Stylish rice that combines form and function",
+        "category": "Food",
+        "tags": [
+          "nutritious",
+          "local",
+          "healthy",
+          "imported",
+          "homemade"
+        ],
+        "price": 422.95,
+        "rating": 3.9,
+        "semantic_score": 0.778561271828966,
+        "lexical_score": 0.957908915549171,
+        "final_score": 0.8323655649450274
+      }
+    ],
+    "explanation": "These results are relevant because they all relate to categories of organic, healthy food products that cater to customers seeking high-quality and nutritious food options. Specifically, whole grain rice is a staple food item, premium coffee is often seen as a healthier beverage option, and premium snacks are typically made with wholesome ingredients, aligning with the demand for organic and healthy food products."
+  },
+  "comfortable running shoes": {
+    "results": [
+      {
+        "rank": 1,
+        "id": 8,
+        "title": "Comfortable Shoes",
+        "description": "Compact shoes ideal for limited spaces",
+        "category": "Clothing",
+        "tags": [
+          "stretchable",
+          "handmade",
+          "cotton"
+        ],
+        "price": 374.23,
+        "rating": 3.9,
+        "semantic_score": 0.0,
+        "lexical_score": 0.9999999997,
+        "final_score": 0.29999999991
+      },
+      {
+        "rank": 2,
+        "id": 55,
+        "title": "Running Ball",
+        "description": "Premium ball designed for maximum comfort and performance",
+        "category": "Sports",
+        "tags": [
+          "high-performance",
+          "professional",
+          "adjustable",
+          "waterproof",
+          "outdoor"
+        ],
+        "price": 197.93,
+        "rating": 4.5,
+        "semantic_score": 0.0,
+        "lexical_score": 0.49999999985,
+        "final_score": 0.149999999955
+      },
+      {
+        "rank": 3,
+        "id": 200,
+        "title": "Stage Amplifier",
+        "description": "Innovative amplifier with advanced features",
+        "category": "Music",
+        "tags": [
+          "handcrafted",
+          "vintage",
+          "modern"
+        ],
+        "price": 52.94,
+        "rating": 4.6,
+        "semantic_score": 0.0,
+        "lexical_score": 0.0,
+        "final_score": 0.0
+      },
+      {
+        "rank": 4,
+        "id": 64,
+        "title": "Industrial Chair",
+        "description": "Affordable chair without compromising quality",
+        "category": "Home",
+        "tags": [
+          "adjustable",
+          "wooden",
+          "decorative"
+        ],
+        "price": 256.82,
+        "rating": 4.6,
+        "semantic_score": 0.0,
+        "lexical_score": 0.0,
+        "final_score": 0.0
+      },
+      {
+        "rank": 5,
+        "id": 73,
+        "title": "Toddler Game",
+        "description": "Professional-grade game for serious users",
+        "category": "Toys",
+        "tags": [
+          "wooden",
+          "collectible",
+          "outdoor",
+          "electronic"
+        ],
+        "price": 184.31,
+        "rating": 4.4,
+        "semantic_score": 0.0,
+        "lexical_score": 0.0,
+        "final_score": 0.0
+      }
+    ],
+    "explanation": "The top results are likely irrelevant because they don't directly relate to shoes designed for running, but rather cover a broader range of topics such as athletic clothing, sports balls, and musical equipment.\n\nMore relevant results for \"comfortable running shoes\" would likely include shoe models or brands specifically designed for running, such as Nike or Brooks, or online store pages showcasing highly-rated running shoes."
+  },
+  "professional camera equipment": {
+    "results": [
+      {
+        "rank": 1,
+        "id": 123,
+        "title": "SmartTech Camera",
+        "description": "Durable camera built to last",
+        "category": "Electronics",
+        "tags": [
+          "4K",
+          "budget",
+          "HD",
+          "professional"
+        ],
+        "price": 49.42,
+        "rating": 4.3,
+        "semantic_score": 0.9999999998313354,
+        "lexical_score": 0.9999999998419862,
+        "final_score": 0.9999999998345306
+      },
+      {
+        "rank": 2,
+        "id": 46,
+        "title": "GadgetHub Camera",
+        "description": "Stylish camera that combines form and function",
+        "category": "Electronics",
+        "tags": [
+          "4K",
+          "gaming",
+          "budget",
+          "bluetooth"
+        ],
+        "price": 236.3,
+        "rating": 3.7,
+        "semantic_score": 0.8662293850958144,
+        "lexical_score": 0.6643070929643229,
+        "final_score": 0.8056526974563669
+      },
+      {
+        "rank": 3,
+        "id": 175,
+        "title": "Professional Saxophone",
+        "description": "Professional-grade saxophone for serious users",
+        "category": "Music",
+        "tags": [
+          "professional-grade",
+          "affordable",
+          "handcrafted"
+        ],
+        "price": 142.71,
+        "rating": 4.6,
+        "semantic_score": 0.29205868620779213,
+        "lexical_score": 0.40158399713329274,
+        "final_score": 0.32491627948544227
+      },
+      {
+        "rank": 4,
+        "id": 33,
+        "title": "ElectroMax Smartphone",
+        "description": "Professional-grade smartphone for serious users",
+        "category": "Electronics",
+        "tags": [
+          "premium",
+          "gaming",
+          "professional",
+          "HD"
+        ],
+        "price": 190.68,
+        "rating": 4.9,
+        "semantic_score": 0.2428780844048079,
+        "lexical_score": 0.3783074381954045,
+        "final_score": 0.28350689054198686
+      },
+      {
+        "rank": 5,
+        "id": 76,
+        "title": "Practice Amplifier",
+        "description": "Professional-grade amplifier for serious users",
+        "category": "Music",
+        "tags": [
+          "professional-grade",
+          "wireless",
+          "handcrafted",
+          "beginner-friendly",
+          "premium"
+        ],
+        "price": 249.89,
+        "rating": 4.9,
+        "semantic_score": 0.17643186704921668,
+        "lexical_score": 0.34685928104041613,
+        "final_score": 0.2275600912465765
+      }
+    ],
+    "explanation": "The search results appear to be affected by irrelevant keywords that are being matched due to their similarity in sounds or parts of names. The top results, \"SmartTech Camera\" and \"GadgetHub Camera\", could be relevant to \"professional camera equipment\" if they specifically cater to photography or filmmaking, while the \"Professional Saxophone\" is highly unlikely to be relevant, being a musical instrument rather than photography equipment."
+  },
+  "educational toys for kids": {
+    "results": [
+      {
+        "rank": 1,
+        "id": 61,
+        "title": "Kids Plane",
+        "description": "Affordable plane without compromising quality",
+        "category": "Toys",
+        "tags": [
+          "STEM",
+          "wooden",
+          "indoor",
+          "plush",
+          "educational"
+        ],
+        "price": 464.09,
+        "rating": 4.4,
+        "semantic_score": 0.9999999997505661,
+        "lexical_score": 0.9999999998546752,
+        "final_score": 0.9999999997817988
+      },
+      {
+        "rank": 2,
+        "id": 118,
+        "title": "Kids Doll",
+        "description": "Stylish doll that combines form and function",
+        "category": "Toys",
+        "tags": [
+          "creative",
+          "wooden",
+          "STEM",
+          "outdoor",
+          "educational"
+        ],
+        "price": 28.31,
+        "rating": 3.7,
+        "semantic_score": 0.8098942333308741,
+        "lexical_score": 0.9507535372213386,
+        "final_score": 0.8521520244980134
+      },
+      {
+        "rank": 3,
+        "id": 40,
+        "title": "Kids Ball",
+        "description": "Durable ball built to last",
+        "category": "Toys",
+        "tags": [
+          "interactive",
+          "collectible",
+          "educational",
+          "electronic",
+          "creative"
+        ],
+        "price": 150.63,
+        "rating": 4.5,
+        "semantic_score": 0.7946336717190393,
+        "lexical_score": 0.7753333787137762,
+        "final_score": 0.7888435838174603
+      },
+      {
+        "rank": 4,
+        "id": 174,
+        "title": "Kids Puzzle",
+        "description": "Innovative puzzle with advanced features",
+        "category": "Toys",
+        "tags": [
+          "interactive",
+          "wooden",
+          "outdoor"
+        ],
+        "price": 25.69,
+        "rating": 3.8,
+        "semantic_score": 0.7387402545971223,
+        "lexical_score": 0.5708862811605895,
+        "final_score": 0.6883840625661624
+      },
+      {
+        "rank": 5,
+        "id": 44,
+        "title": "Kids Robot",
+        "description": "Compact robot ideal for limited spaces",
+        "category": "Toys",
+        "tags": [
+          "collectible",
+          "outdoor",
+          "creative",
+          "STEM",
+          "wooden"
+        ],
+        "price": 12.57,
+        "rating": 3.9,
+        "semantic_score": 0.6475657255125862,
+        "lexical_score": 0.7237304719023283,
+        "final_score": 0.6704151494295087
+      }
+    ],
+    "explanation": "These results appear to be relevant because they are common and popular toys that are often used by kids to engage in play-based learning and development. However, a more specific query such as 'educational toys for kids' would likely expect results that are tailored towards learning a specific subject, skill, or concept, not just any traditional toy."
+  }
+}

@@ -1,0 +1,3805 @@
+[
+  {
+    "id": 1,
+    "title": "Vintage Jeans",
+    "description": "Elegant jeans that enhances any setting",
+    "tags": [
+      "waterproof",
+      "handmade",
+      "stretchable"
+    ],
+    "category": "Clothing",
+    "metadata": {
+      "price": 98.08,
+      "rating": 5.0,
+      "stock": 46
+    },
+    "search_document": "Vintage Jeans. Elegant jeans that enhances any setting. Tags: waterproof, handmade, stretchable. Category: Clothing. Price: $98.08. Rating: 5.0/5. Stock: 46 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 2,
+    "title": "Practice Drum",
+    "description": "Compact drum ideal for limited spaces",
+    "tags": [
+      "modern",
+      "affordable",
+      "wireless",
+      "vintage",
+      "handcrafted"
+    ],
+    "category": "Music",
+    "metadata": {
+      "price": 416.54,
+      "rating": 4.1,
+      "stock": 53
+    },
+    "search_document": "Practice Drum. Compact drum ideal for limited spaces. Tags: modern, affordable, wireless, vintage, handcrafted. Category: Music. Price: $416.54. Rating: 4.1/5. Stock: 53 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 3,
+    "title": "Brightening Cream",
+    "description": "Versatile cream suitable for multiple purposes",
+    "tags": [
+      "paraben-free",
+      "fragrance-free",
+      "organic"
+    ],
+    "category": "Beauty",
+    "metadata": {
+      "price": 131.61,
+      "rating": 4.8,
+      "stock": 40
+    },
+    "search_document": "Brightening Cream. Versatile cream suitable for multiple purposes. Tags: paraben-free, fragrance-free, organic. Category: Beauty. Price: $131.61. Rating: 4.8/5. Stock: 40 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 4,
+    "title": "Cycling Bike",
+    "description": "Affordable bike without compromising quality",
+    "tags": [
+      "professional",
+      "outdoor",
+      "durable",
+      "ergonomic",
+      "lightweight"
+    ],
+    "category": "Sports",
+    "metadata": {
+      "price": 420.41,
+      "rating": 4.5,
+      "stock": 32
+    },
+    "search_document": "Cycling Bike. Affordable bike without compromising quality. Tags: professional, outdoor, durable, ergonomic, lightweight. Category: Sports. Price: $420.41. Rating: 4.5/5. Stock: 32 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 5,
+    "title": "Traditional Bed",
+    "description": "Premium bed designed for maximum comfort and performance",
+    "tags": [
+      "handcrafted",
+      "fabric",
+      "space-saving",
+      "functional",
+      "metal"
+    ],
+    "category": "Home",
+    "metadata": {
+      "price": 192.26,
+      "rating": 4.6,
+      "stock": 40
+    },
+    "search_document": "Traditional Bed. Premium bed designed for maximum comfort and performance. Tags: handcrafted, fabric, space-saving, functional, metal. Category: Home. Price: $192.26. Rating: 4.6/5. Stock: 40 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 6,
+    "title": "Protecting Mask",
+    "description": "Versatile mask suitable for multiple purposes",
+    "tags": [
+      "cruelty-free",
+      "luxury",
+      "paraben-free",
+      "hypoallergenic"
+    ],
+    "category": "Beauty",
+    "metadata": {
+      "price": 118.52,
+      "rating": 4.3,
+      "stock": 27
+    },
+    "search_document": "Protecting Mask. Versatile mask suitable for multiple purposes. Tags: cruelty-free, luxury, paraben-free, hypoallergenic. Category: Beauty. Price: $118.52. Rating: 4.3/5. Stock: 27 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 7,
+    "title": "Digital Mouse",
+    "description": "Professional-grade mouse for serious users",
+    "tags": [
+      "budget",
+      "wireless",
+      "4K",
+      "HD"
+    ],
+    "category": "Electronics",
+    "metadata": {
+      "price": 18.76,
+      "rating": 3.8,
+      "stock": 19
+    },
+    "search_document": "Digital Mouse. Professional-grade mouse for serious users. Tags: budget, wireless, 4K, HD. Category: Electronics. Price: $18.76. Rating: 3.8/5. Stock: 19 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 8,
+    "title": "Comfortable Shoes",
+    "description": "Compact shoes ideal for limited spaces",
+    "tags": [
+      "stretchable",
+      "handmade",
+      "cotton"
+    ],
+    "category": "Clothing",
+    "metadata": {
+      "price": 374.23,
+      "rating": 3.9,
+      "stock": 69
+    },
+    "search_document": "Comfortable Shoes. Compact shoes ideal for limited spaces. Tags: stretchable, handmade, cotton. Category: Clothing. Price: $374.23. Rating: 3.9/5. Stock: 69 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 9,
+    "title": "ElectroMax Tablet",
+    "description": "Elegant tablet that enhances any setting",
+    "tags": [
+      "HD",
+      "wireless",
+      "4K",
+      "gaming",
+      "compact"
+    ],
+    "category": "Electronics",
+    "metadata": {
+      "price": 343.73,
+      "rating": 5.0,
+      "stock": 41
+    },
+    "search_document": "ElectroMax Tablet. Elegant tablet that enhances any setting. Tags: HD, wireless, 4K, gaming, compact. Category: Electronics. Price: $343.73. Rating: 5.0/5. Stock: 41 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 10,
+    "title": "Hiking Weights",
+    "description": "Stylish weights that combines form and function",
+    "tags": [
+      "durable",
+      "ergonomic",
+      "adjustable",
+      "professional"
+    ],
+    "category": "Sports",
+    "metadata": {
+      "price": 452.32,
+      "rating": 3.6,
+      "stock": 45
+    },
+    "search_document": "Hiking Weights. Stylish weights that combines form and function. Tags: durable, ergonomic, adjustable, professional. Category: Sports. Price: $452.32. Rating: 3.6/5. Stock: 45 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 11,
+    "title": "Traditional Table",
+    "description": "Versatile table suitable for multiple purposes",
+    "tags": [
+      "functional",
+      "metal",
+      "handcrafted",
+      "space-saving",
+      "elegant"
+    ],
+    "category": "Home",
+    "metadata": {
+      "price": 338.87,
+      "rating": 4.9,
+      "stock": 50
+    },
+    "search_document": "Traditional Table. Versatile table suitable for multiple purposes. Tags: functional, metal, handcrafted, space-saving, elegant. Category: Home. Price: $338.87. Rating: 4.9/5. Stock: 50 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 12,
+    "title": "All Ages Plane",
+    "description": "Innovative plane with advanced features",
+    "tags": [
+      "electronic",
+      "interactive",
+      "STEM",
+      "indoor",
+      "creative"
+    ],
+    "category": "Toys",
+    "metadata": {
+      "price": 306.2,
+      "rating": 3.7,
+      "stock": 29
+    },
+    "search_document": "All Ages Plane. Innovative plane with advanced features. Tags: electronic, interactive, STEM, indoor, creative. Category: Toys. Price: $306.2. Rating: 3.7/5. Stock: 29 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 13,
+    "title": "Hiking Bike",
+    "description": "Stylish bike that combines form and function",
+    "tags": [
+      "lightweight",
+      "indoor",
+      "professional",
+      "waterproof",
+      "durable"
+    ],
+    "category": "Sports",
+    "metadata": {
+      "price": 428.76,
+      "rating": 4.9,
+      "stock": 22
+    },
+    "search_document": "Hiking Bike. Stylish bike that combines form and function. Tags: lightweight, indoor, professional, waterproof, durable. Category: Sports. Price: $428.76. Rating: 4.9/5. Stock: 22 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 14,
+    "title": "Luxury Chair",
+    "description": "Innovative chair with advanced features",
+    "tags": [
+      "handcrafted",
+      "metal",
+      "wooden",
+      "functional"
+    ],
+    "category": "Home",
+    "metadata": {
+      "price": 189.94,
+      "rating": 4.4,
+      "stock": 32
+    },
+    "search_document": "Luxury Chair. Innovative chair with advanced features. Tags: handcrafted, metal, wooden, functional. Category: Home. Price: $189.94. Rating: 4.4/5. Stock: 32 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 15,
+    "title": "Fresh Bread",
+    "description": "Premium bread designed for maximum comfort and performance",
+    "tags": [
+      "nutritious",
+      "local",
+      "instant",
+      "homemade",
+      "gourmet"
+    ],
+    "category": "Food",
+    "metadata": {
+      "price": 475.17,
+      "rating": 4.9,
+      "stock": 83
+    },
+    "search_document": "Fresh Bread. Premium bread designed for maximum comfort and performance. Tags: nutritious, local, instant, homemade, gourmet. Category: Food. Price: $475.17. Rating: 4.9/5. Stock: 83 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 16,
+    "title": "Nourishing Lipstick",
+    "description": "Versatile lipstick suitable for multiple purposes",
+    "tags": [
+      "paraben-free",
+      "natural",
+      "cruelty-free",
+      "clinical",
+      "fragrance-free"
+    ],
+    "category": "Beauty",
+    "metadata": {
+      "price": 165.8,
+      "rating": 4.5,
+      "stock": 82
+    },
+    "search_document": "Nourishing Lipstick. Versatile lipstick suitable for multiple purposes. Tags: paraben-free, natural, cruelty-free, clinical, fragrance-free. Category: Beauty. Price: $165.8. Rating: 4.5/5. Stock: 82 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 17,
+    "title": "Gluten-Free Coffee",
+    "description": "Durable coffee built to last",
+    "tags": [
+      "imported",
+      "homemade",
+      "nutritious"
+    ],
+    "category": "Food",
+    "metadata": {
+      "price": 277.33,
+      "rating": 4.8,
+      "stock": 30
+    },
+    "search_document": "Gluten-Free Coffee. Durable coffee built to last. Tags: imported, homemade, nutritious. Category: Food. Price: $277.33. Rating: 4.8/5. Stock: 30 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 18,
+    "title": "Traditional Chair",
+    "description": "High-quality chair perfect for everyday use",
+    "tags": [
+      "metal",
+      "space-saving",
+      "wooden"
+    ],
+    "category": "Home",
+    "metadata": {
+      "price": 30.48,
+      "rating": 4.5,
+      "stock": 94
+    },
+    "search_document": "Traditional Chair. High-quality chair perfect for everyday use. Tags: metal, space-saving, wooden. Category: Home. Price: $30.48. Rating: 4.5/5. Stock: 94 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 19,
+    "title": "Modern Scarf",
+    "description": "Affordable scarf without compromising quality",
+    "tags": [
+      "leather",
+      "durable",
+      "handmade"
+    ],
+    "category": "Clothing",
+    "metadata": {
+      "price": 209.47,
+      "rating": 4.2,
+      "stock": 55
+    },
+    "search_document": "Modern Scarf. Affordable scarf without compromising quality. Tags: leather, durable, handmade. Category: Clothing. Price: $209.47. Rating: 4.2/5. Stock: 55 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 20,
+    "title": "Formal Dress",
+    "description": "Elegant dress that enhances any setting",
+    "tags": [
+      "designer",
+      "lightweight",
+      "waterproof",
+      "breathable",
+      "cotton"
+    ],
+    "category": "Clothing",
+    "metadata": {
+      "price": 387.12,
+      "rating": 4.4,
+      "stock": 27
+    },
+    "search_document": "Formal Dress. Elegant dress that enhances any setting. Tags: designer, lightweight, waterproof, breathable, cotton. Category: Clothing. Price: $387.12. Rating: 4.4/5. Stock: 27 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 21,
+    "title": "Fresh Chocolate",
+    "description": "Elegant chocolate that enhances any setting",
+    "tags": [
+      "imported",
+      "exotic",
+      "nutritious",
+      "traditional"
+    ],
+    "category": "Food",
+    "metadata": {
+      "price": 428.37,
+      "rating": 4.5,
+      "stock": 90
+    },
+    "search_document": "Fresh Chocolate. Elegant chocolate that enhances any setting. Tags: imported, exotic, nutritious, traditional. Category: Food. Price: $428.37. Rating: 4.5/5. Stock: 90 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 22,
+    "title": "Stylish Dress",
+    "description": "Affordable dress without compromising quality",
+    "tags": [
+      "eco-friendly",
+      "designer",
+      "waterproof"
+    ],
+    "category": "Clothing",
+    "metadata": {
+      "price": 211.65,
+      "rating": 3.7,
+      "stock": 70
+    },
+    "search_document": "Stylish Dress. Affordable dress without compromising quality. Tags: eco-friendly, designer, waterproof. Category: Clothing. Price: $211.65. Rating: 3.7/5. Stock: 70 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 23,
+    "title": "Fiction Novel",
+    "description": "Compact novel ideal for limited spaces",
+    "tags": [
+      "paperback",
+      "hardcover",
+      "comprehensive"
+    ],
+    "category": "Books",
+    "metadata": {
+      "price": 260.05,
+      "rating": 3.8,
+      "stock": 17
+    },
+    "search_document": "Fiction Novel. Compact novel ideal for limited spaces. Tags: paperback, hardcover, comprehensive. Category: Books. Price: $260.05. Rating: 3.8/5. Stock: 17 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 24,
+    "title": "Digital Monitor",
+    "description": "Affordable monitor without compromising quality",
+    "tags": [
+      "gaming",
+      "professional",
+      "wireless",
+      "HD",
+      "portable"
+    ],
+    "category": "Electronics",
+    "metadata": {
+      "price": 151.8,
+      "rating": 3.9,
+      "stock": 73
+    },
+    "search_document": "Digital Monitor. Affordable monitor without compromising quality. Tags: gaming, professional, wireless, HD, portable. Category: Electronics. Price: $151.8. Rating: 3.9/5. Stock: 73 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 25,
+    "title": "Philosophy Novel",
+    "description": "Innovative novel with advanced features",
+    "tags": [
+      "bestseller",
+      "digital",
+      "classic"
+    ],
+    "category": "Books",
+    "metadata": {
+      "price": 331.08,
+      "rating": 3.9,
+      "stock": 87
+    },
+    "search_document": "Philosophy Novel. Innovative novel with advanced features. Tags: bestseller, digital, classic. Category: Books. Price: $331.08. Rating: 3.9/5. Stock: 87 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 26,
+    "title": "Preschool Doll",
+    "description": "Stylish doll that combines form and function",
+    "tags": [
+      "electronic",
+      "interactive",
+      "collectible",
+      "plush"
+    ],
+    "category": "Toys",
+    "metadata": {
+      "price": 258.61,
+      "rating": 4.5,
+      "stock": 96
+    },
+    "search_document": "Preschool Doll. Stylish doll that combines form and function. Tags: electronic, interactive, collectible, plush. Category: Toys. Price: $258.61. Rating: 4.5/5. Stock: 96 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 27,
+    "title": "Casual Coat",
+    "description": "Durable coat built to last",
+    "tags": [
+      "leather",
+      "cotton",
+      "waterproof"
+    ],
+    "category": "Clothing",
+    "metadata": {
+      "price": 191.48,
+      "rating": 4.6,
+      "stock": 80
+    },
+    "search_document": "Casual Coat. Durable coat built to last. Tags: leather, cotton, waterproof. Category: Clothing. Price: $191.48. Rating: 4.6/5. Stock: 80 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 28,
+    "title": "Practice Amplifier",
+    "description": "Elegant amplifier that enhances any setting",
+    "tags": [
+      "handcrafted",
+      "professional-grade",
+      "affordable"
+    ],
+    "category": "Music",
+    "metadata": {
+      "price": 293.47,
+      "rating": 3.7,
+      "stock": 56
+    },
+    "search_document": "Practice Amplifier. Elegant amplifier that enhances any setting. Tags: handcrafted, professional-grade, affordable. Category: Music. Price: $293.47. Rating: 3.7/5. Stock: 56 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 29,
+    "title": "Traditional Table",
+    "description": "Stylish table that combines form and function",
+    "tags": [
+      "decorative",
+      "handcrafted",
+      "metal",
+      "elegant",
+      "functional"
+    ],
+    "category": "Home",
+    "metadata": {
+      "price": 290.89,
+      "rating": 5.0,
+      "stock": 30
+    },
+    "search_document": "Traditional Table. Stylish table that combines form and function. Tags: decorative, handcrafted, metal, elegant, functional. Category: Home. Price: $290.89. Rating: 5.0/5. Stock: 30 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 30,
+    "title": "Hydrating Lipstick",
+    "description": "Innovative lipstick with advanced features",
+    "tags": [
+      "dermatologist-tested",
+      "organic",
+      "cruelty-free",
+      "hypoallergenic",
+      "clinical"
+    ],
+    "category": "Beauty",
+    "metadata": {
+      "price": 56.31,
+      "rating": 3.7,
+      "stock": 32
+    },
+    "search_document": "Hydrating Lipstick. Innovative lipstick with advanced features. Tags: dermatologist-tested, organic, cruelty-free, hypoallergenic, clinical. Category: Beauty. Price: $56.31. Rating: 3.7/5. Stock: 32 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 31,
+    "title": "Automatic Planter",
+    "description": "Professional-grade planter for serious users",
+    "tags": [
+      "heavy-duty",
+      "weather-resistant",
+      "ergonomic",
+      "compact",
+      "lightweight"
+    ],
+    "category": "Garden",
+    "metadata": {
+      "price": 35.54,
+      "rating": 4.1,
+      "stock": 81
+    },
+    "search_document": "Automatic Planter. Professional-grade planter for serious users. Tags: heavy-duty, weather-resistant, ergonomic, compact, lightweight. Category: Garden. Price: $35.54. Rating: 4.1/5. Stock: 81 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 32,
+    "title": "Fresh Cereal",
+    "description": "Professional-grade cereal for serious users",
+    "tags": [
+      "imported",
+      "exotic",
+      "homemade",
+      "traditional",
+      "gourmet"
+    ],
+    "category": "Food",
+    "metadata": {
+      "price": 469.84,
+      "rating": 4.2,
+      "stock": 75
+    },
+    "search_document": "Fresh Cereal. Professional-grade cereal for serious users. Tags: imported, exotic, homemade, traditional, gourmet. Category: Food. Price: $469.84. Rating: 4.2/5. Stock: 75 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 33,
+    "title": "ElectroMax Smartphone",
+    "description": "Professional-grade smartphone for serious users",
+    "tags": [
+      "premium",
+      "gaming",
+      "professional",
+      "HD"
+    ],
+    "category": "Electronics",
+    "metadata": {
+      "price": 190.68,
+      "rating": 4.9,
+      "stock": 73
+    },
+    "search_document": "ElectroMax Smartphone. Professional-grade smartphone for serious users. Tags: premium, gaming, professional, HD. Category: Electronics. Price: $190.68. Rating: 4.9/5. Stock: 73 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 34,
+    "title": "Premium Cereal",
+    "description": "Stylish cereal that combines form and function",
+    "tags": [
+      "imported",
+      "exotic",
+      "traditional",
+      "local"
+    ],
+    "category": "Food",
+    "metadata": {
+      "price": 56.04,
+      "rating": 3.6,
+      "stock": 17
+    },
+    "search_document": "Premium Cereal. Stylish cereal that combines form and function. Tags: imported, exotic, traditional, local. Category: Food. Price: $56.04. Rating: 3.6/5. Stock: 17 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 35,
+    "title": "Frozen Cereal",
+    "description": "Affordable cereal without compromising quality",
+    "tags": [
+      "instant",
+      "healthy",
+      "traditional",
+      "nutritious",
+      "local"
+    ],
+    "category": "Food",
+    "metadata": {
+      "price": 338.46,
+      "rating": 4.0,
+      "stock": 3
+    },
+    "search_document": "Frozen Cereal. Affordable cereal without compromising quality. Tags: instant, healthy, traditional, nutritious, local. Category: Food. Price: $338.46. Rating: 4.0/5. Stock: 3 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 36,
+    "title": "Toddler Puzzle",
+    "description": "Compact puzzle ideal for limited spaces",
+    "tags": [
+      "STEM",
+      "plush",
+      "educational",
+      "outdoor",
+      "indoor"
+    ],
+    "category": "Toys",
+    "metadata": {
+      "price": 258.85,
+      "rating": 4.9,
+      "stock": 90
+    },
+    "search_document": "Toddler Puzzle. Compact puzzle ideal for limited spaces. Tags: STEM, plush, educational, outdoor, indoor. Category: Toys. Price: $258.85. Rating: 4.9/5. Stock: 90 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 37,
+    "title": "Repairing Oil",
+    "description": "Durable oil built to last",
+    "tags": [
+      "dermatologist-tested",
+      "hypoallergenic",
+      "fragrance-free",
+      "organic"
+    ],
+    "category": "Beauty",
+    "metadata": {
+      "price": 247.07,
+      "rating": 4.5,
+      "stock": 81
+    },
+    "search_document": "Repairing Oil. Durable oil built to last. Tags: dermatologist-tested, hypoallergenic, fragrance-free, organic. Category: Beauty. Price: $247.07. Rating: 4.5/5. Stock: 81 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 38,
+    "title": "Classic Shirt",
+    "description": "Stylish shirt that combines form and function",
+    "tags": [
+      "leather",
+      "cotton",
+      "breathable",
+      "eco-friendly"
+    ],
+    "category": "Clothing",
+    "metadata": {
+      "price": 41.84,
+      "rating": 3.6,
+      "stock": 61
+    },
+    "search_document": "Classic Shirt. Stylish shirt that combines form and function. Tags: leather, cotton, breathable, eco-friendly. Category: Clothing. Price: $41.84. Rating: 3.6/5. Stock: 61 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 39,
+    "title": "Sugar-Free Tea",
+    "description": "Professional-grade tea for serious users",
+    "tags": [
+      "instant",
+      "delicious",
+      "local",
+      "exotic",
+      "homemade"
+    ],
+    "category": "Food",
+    "metadata": {
+      "price": 319.4,
+      "rating": 4.8,
+      "stock": 33
+    },
+    "search_document": "Sugar-Free Tea. Professional-grade tea for serious users. Tags: instant, delicious, local, exotic, homemade. Category: Food. Price: $319.4. Rating: 4.8/5. Stock: 33 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 40,
+    "title": "Kids Ball",
+    "description": "Durable ball built to last",
+    "tags": [
+      "interactive",
+      "collectible",
+      "educational",
+      "electronic",
+      "creative"
+    ],
+    "category": "Toys",
+    "metadata": {
+      "price": 150.63,
+      "rating": 4.5,
+      "stock": 29
+    },
+    "search_document": "Kids Ball. Durable ball built to last. Tags: interactive, collectible, educational, electronic, creative. Category: Toys. Price: $150.63. Rating: 4.5/5. Stock: 29 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 41,
+    "title": "ElectroMax Headphones",
+    "description": "Elegant headphones that enhances any setting",
+    "tags": [
+      "bluetooth",
+      "HD",
+      "professional",
+      "compact",
+      "portable"
+    ],
+    "category": "Electronics",
+    "metadata": {
+      "price": 170.65,
+      "rating": 4.9,
+      "stock": 47
+    },
+    "search_document": "ElectroMax Headphones. Elegant headphones that enhances any setting. Tags: bluetooth, HD, professional, compact, portable. Category: Electronics. Price: $170.65. Rating: 4.9/5. Stock: 47 units.",
+    "llm_keywords": "Bluetooth, HD, Professional, Compact, Portable, Elegant, Electronics, $170.65, 4.9/5, 47 units."
+  },
+  {
+    "id": 42,
+    "title": "Automatic Soil",
+    "description": "Compact soil ideal for limited spaces",
+    "tags": [
+      "ergonomic",
+      "biodegradable",
+      "lightweight"
+    ],
+    "category": "Garden",
+    "metadata": {
+      "price": 329.31,
+      "rating": 3.8,
+      "stock": 56
+    },
+    "search_document": "Automatic Soil. Compact soil ideal for limited spaces. Tags: ergonomic, biodegradable, lightweight. Category: Garden. Price: $329.31. Rating: 3.8/5. Stock: 56 units.",
+    "llm_keywords": "Automatic Soil, Compact, Ergonomic, Biodegradable, Lightweight, Garden, Limited Space, Affordable, 3.8/5 Rating, 56 Units Stock."
+  },
+  {
+    "id": 43,
+    "title": "Revitalizing Serum",
+    "description": "Premium serum designed for maximum comfort and performance",
+    "tags": [
+      "fragrance-free",
+      "paraben-free",
+      "clinical",
+      "vegan"
+    ],
+    "category": "Beauty",
+    "metadata": {
+      "price": 133.57,
+      "rating": 4.6,
+      "stock": 100
+    },
+    "search_document": "Revitalizing Serum. Premium serum designed for maximum comfort and performance. Tags: fragrance-free, paraben-free, clinical, vegan. Category: Beauty. Price: $133.57. Rating: 4.6/5. Stock: 100 units.",
+    "llm_keywords": "Fragrance-free, paraben-free, clinical, vegan, premium, serum, beauty, comfort, performance, skincare."
+  },
+  {
+    "id": 44,
+    "title": "Kids Robot",
+    "description": "Compact robot ideal for limited spaces",
+    "tags": [
+      "collectible",
+      "outdoor",
+      "creative",
+      "STEM",
+      "wooden"
+    ],
+    "category": "Toys",
+    "metadata": {
+      "price": 12.57,
+      "rating": 3.9,
+      "stock": 8
+    },
+    "search_document": "Kids Robot. Compact robot ideal for limited spaces. Tags: collectible, outdoor, creative, STEM, wooden. Category: Toys. Price: $12.57. Rating: 3.9/5. Stock: 8 units.",
+    "llm_keywords": "Kids Robot, Compact, Collectible, Outdoor, Creative, STEM, Wooden, Toy, Affordable, Limited."
+  },
+  {
+    "id": 45,
+    "title": "Professional Ukulele",
+    "description": "Elegant ukulele that enhances any setting",
+    "tags": [
+      "premium",
+      "wireless",
+      "vintage",
+      "full-size"
+    ],
+    "category": "Music",
+    "metadata": {
+      "price": 390.01,
+      "rating": 4.1,
+      "stock": 96
+    },
+    "search_document": "Professional Ukulele. Elegant ukulele that enhances any setting. Tags: premium, wireless, vintage, full-size. Category: Music. Price: $390.01. Rating: 4.1/5. Stock: 96 units.",
+    "llm_keywords": "Ukulele, premium, wireless, vintage, full-size, elegant, music, $390, 4.1 rating, 96 stock."
+  },
+  {
+    "id": 46,
+    "title": "GadgetHub Camera",
+    "description": "Stylish camera that combines form and function",
+    "tags": [
+      "4K",
+      "gaming",
+      "budget",
+      "bluetooth"
+    ],
+    "category": "Electronics",
+    "metadata": {
+      "price": 236.3,
+      "rating": 3.7,
+      "stock": 14
+    },
+    "search_document": "GadgetHub Camera. Stylish camera that combines form and function. Tags: 4K, gaming, budget, bluetooth. Category: Electronics. Price: $236.3. Rating: 3.7/5. Stock: 14 units.",
+    "llm_keywords": "GadgetHub Camera, 4K, Gaming, Budget, Bluetooth, Electronics, Stylish, $236.3, 3.7/5, 14 units."
+  },
+  {
+    "id": 47,
+    "title": "Vintage Rug",
+    "description": "Elegant rug that enhances any setting",
+    "tags": [
+      "decorative",
+      "adjustable",
+      "glass",
+      "metal",
+      "space-saving"
+    ],
+    "category": "Home",
+    "metadata": {
+      "price": 423.59,
+      "rating": 4.6,
+      "stock": 22
+    },
+    "search_document": "Vintage Rug. Elegant rug that enhances any setting. Tags: decorative, adjustable, glass, metal, space-saving. Category: Home. Price: $423.59. Rating: 4.6/5. Stock: 22 units.",
+    "llm_keywords": "Vintage Rug, decorative, elegant, space-saving, glass, metal, adjustable, home, $423.59, 4.6/5."
+  },
+  {
+    "id": 48,
+    "title": "Protecting Lipstick",
+    "description": "Elegant lipstick that enhances any setting",
+    "tags": [
+      "luxury",
+      "clinical",
+      "cruelty-free",
+      "dermatologist-tested"
+    ],
+    "category": "Beauty",
+    "metadata": {
+      "price": 407.83,
+      "rating": 5.0,
+      "stock": 81
+    },
+    "search_document": "Protecting Lipstick. Elegant lipstick that enhances any setting. Tags: luxury, clinical, cruelty-free, dermatologist-tested. Category: Beauty. Price: $407.83. Rating: 5.0/5. Stock: 81 units.",
+    "llm_keywords": "Luxury lipstick, clinical formula, cruelty-free, dermatologist-tested, beauty, elegant, high-end, 5-star, available, limited."
+  },
+  {
+    "id": 49,
+    "title": "Decorative Trimmer",
+    "description": "Versatile trimmer suitable for multiple purposes",
+    "tags": [
+      "lightweight",
+      "sustainable",
+      "biodegradable"
+    ],
+    "category": "Garden",
+    "metadata": {
+      "price": 72.87,
+      "rating": 5.0,
+      "stock": 43
+    },
+    "search_document": "Decorative Trimmer. Versatile trimmer suitable for multiple purposes. Tags: lightweight, sustainable, biodegradable. Category: Garden. Price: $72.87. Rating: 5.0/5. Stock: 43 units.",
+    "llm_keywords": "Lightweight, versatile, sustainable, biodegradable, garden, trimmer, decorative, affordable, highly-rated, in-stock."
+  },
+  {
+    "id": 50,
+    "title": "Vintage Jacket",
+    "description": "Compact jacket ideal for limited spaces",
+    "tags": [
+      "stretchable",
+      "breathable",
+      "durable",
+      "handmade"
+    ],
+    "category": "Clothing",
+    "metadata": {
+      "price": 173.4,
+      "rating": 4.6,
+      "stock": 79
+    },
+    "search_document": "Vintage Jacket. Compact jacket ideal for limited spaces. Tags: stretchable, breathable, durable, handmade. Category: Clothing. Price: $173.4. Rating: 4.6/5. Stock: 79 units.",
+    "llm_keywords": "Vintage Jacket, compact, stretchable, breathable, durable, handmade, clothing, $173.4, 4.6/5, 79 units."
+  },
+  {
+    "id": 51,
+    "title": "Elegant Jeans",
+    "description": "Elegant jeans that enhances any setting",
+    "tags": [
+      "breathable",
+      "waterproof",
+      "stretchable"
+    ],
+    "category": "Clothing",
+    "metadata": {
+      "price": 255.76,
+      "rating": 4.5,
+      "stock": 46
+    },
+    "search_document": "Elegant Jeans. Elegant jeans that enhances any setting. Tags: breathable, waterproof, stretchable. Category: Clothing. Price: $255.76. Rating: 4.5/5. Stock: 46 units.",
+    "llm_keywords": "Elegant Jeans, Breathable, Waterproof, Stretchable, Clothing, Affordable, Stylish, 4.5/5 Rating, 46 Units, $255.76 Price."
+  },
+  {
+    "id": 52,
+    "title": "Casual Scarf",
+    "description": "High-quality scarf perfect for everyday use",
+    "tags": [
+      "lightweight",
+      "eco-friendly",
+      "durable",
+      "cotton"
+    ],
+    "category": "Clothing",
+    "metadata": {
+      "price": 89.97,
+      "rating": 4.3,
+      "stock": 20
+    },
+    "search_document": "Casual Scarf. High-quality scarf perfect for everyday use. Tags: lightweight, eco-friendly, durable, cotton. Category: Clothing. Price: $89.97. Rating: 4.3/5. Stock: 20 units.",
+    "llm_keywords": "Lightweight, eco-friendly, durable, cotton, casual, scarf, clothing, affordable, high-quality, everyday."
+  },
+  {
+    "id": 53,
+    "title": "Whole Grain Rice",
+    "description": "Professional-grade rice for serious users",
+    "tags": [
+      "imported",
+      "healthy",
+      "gourmet",
+      "exotic"
+    ],
+    "category": "Food",
+    "metadata": {
+      "price": 322.38,
+      "rating": 4.7,
+      "stock": 51
+    },
+    "search_document": "Whole Grain Rice. Professional-grade rice for serious users. Tags: imported, healthy, gourmet, exotic. Category: Food. Price: $322.38. Rating: 4.7/5. Stock: 51 units.",
+    "llm_keywords": "Imported, healthy, gourmet, exotic, whole grain, professional, rice, food, high-end, premium."
+  },
+  {
+    "id": 54,
+    "title": "Sport Coat",
+    "description": "Affordable coat without compromising quality",
+    "tags": [
+      "designer",
+      "waterproof",
+      "stretchable",
+      "breathable"
+    ],
+    "category": "Clothing",
+    "metadata": {
+      "price": 451.85,
+      "rating": 3.6,
+      "stock": 27
+    },
+    "search_document": "Sport Coat. Affordable coat without compromising quality. Tags: designer, waterproof, stretchable, breathable. Category: Clothing. Price: $451.85. Rating: 3.6/5. Stock: 27 units.",
+    "llm_keywords": "Sport Coat, Affordable, Quality, Designer, Waterproof, Stretchable, Breathable, Clothing, $451.85, 3.6/5"
+  },
+  {
+    "id": 55,
+    "title": "Running Ball",
+    "description": "Premium ball designed for maximum comfort and performance",
+    "tags": [
+      "high-performance",
+      "professional",
+      "adjustable",
+      "waterproof",
+      "outdoor"
+    ],
+    "category": "Sports",
+    "metadata": {
+      "price": 197.93,
+      "rating": 4.5,
+      "stock": 68
+    },
+    "search_document": "Running Ball. Premium ball designed for maximum comfort and performance. Tags: high-performance, professional, adjustable, waterproof, outdoor. Category: Sports. Price: $197.93. Rating: 4.5/5. Stock: 68 units.",
+    "llm_keywords": "Premium, high-performance, waterproof, adjustable, outdoor, sports, running, ball, professional, comfort."
+  },
+  {
+    "id": 56,
+    "title": "Philosophy Novel",
+    "description": "Innovative novel with advanced features",
+    "tags": [
+      "educational",
+      "comprehensive",
+      "modern",
+      "hardcover"
+    ],
+    "category": "Books",
+    "metadata": {
+      "price": 120.81,
+      "rating": 4.2,
+      "stock": 92
+    },
+    "search_document": "Philosophy Novel. Innovative novel with advanced features. Tags: educational, comprehensive, modern, hardcover. Category: Books. Price: $120.81. Rating: 4.2/5. Stock: 92 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 57,
+    "title": "Indoor Hose",
+    "description": "Versatile hose suitable for multiple purposes",
+    "tags": [
+      "ergonomic",
+      "rust-resistant",
+      "heavy-duty",
+      "durable"
+    ],
+    "category": "Garden",
+    "metadata": {
+      "price": 299.59,
+      "rating": 3.9,
+      "stock": 51
+    },
+    "search_document": "Indoor Hose. Versatile hose suitable for multiple purposes. Tags: ergonomic, rust-resistant, heavy-duty, durable. Category: Garden. Price: $299.59. Rating: 3.9/5. Stock: 51 units.",
+    "llm_keywords": "Indoor, hose, versatile, ergonomic, rust-resistant, heavy-duty, durable, garden, $299.59, 3.9/5"
+  },
+  {
+    "id": 58,
+    "title": "Protecting Spray",
+    "description": "Innovative spray with advanced features",
+    "tags": [
+      "luxury",
+      "clinical",
+      "fragrance-free",
+      "cruelty-free"
+    ],
+    "category": "Beauty",
+    "metadata": {
+      "price": 110.65,
+      "rating": 4.5,
+      "stock": 32
+    },
+    "search_document": "Protecting Spray. Innovative spray with advanced features. Tags: luxury, clinical, fragrance-free, cruelty-free. Category: Beauty. Price: $110.65. Rating: 4.5/5. Stock: 32 units.",
+    "llm_keywords": "Luxury Beauty Spray, Clinical Protection, Fragrance-Free, Cruelty-Free, Advanced Features, $110.65, 4.5/5 Rating, 32 Units Stock."
+  },
+  {
+    "id": 59,
+    "title": "Automatic Trimmer",
+    "description": "Elegant trimmer that enhances any setting",
+    "tags": [
+      "expandable",
+      "ergonomic",
+      "rust-resistant",
+      "compact"
+    ],
+    "category": "Garden",
+    "metadata": {
+      "price": 33.73,
+      "rating": 4.3,
+      "stock": 3
+    },
+    "search_document": "Automatic Trimmer. Elegant trimmer that enhances any setting. Tags: expandable, ergonomic, rust-resistant, compact. Category: Garden. Price: $33.73. Rating: 4.3/5. Stock: 3 units.",
+    "llm_keywords": "Automatic Trimmer, Expandable, Ergonomic, Rust-Resistant, Compact, Elegant, Garden, $33.73, 4.3/5, Limited Stock."
+  },
+  {
+    "id": 60,
+    "title": "Professional Saxophone",
+    "description": "Professional-grade saxophone for serious users",
+    "tags": [
+      "beginner-friendly",
+      "full-size",
+      "premium"
+    ],
+    "category": "Music",
+    "metadata": {
+      "price": 146.73,
+      "rating": 4.1,
+      "stock": 73
+    },
+    "search_document": "Professional Saxophone. Professional-grade saxophone for serious users. Tags: beginner-friendly, full-size, premium. Category: Music. Price: $146.73. Rating: 4.1/5. Stock: 73 units.",
+    "llm_keywords": "Professional Saxophone, beginner-friendly, full-size, premium, music, $146.73, 4.1/5, 73 units, serious users, instrument."
+  },
+  {
+    "id": 61,
+    "title": "Kids Plane",
+    "description": "Affordable plane without compromising quality",
+    "tags": [
+      "STEM",
+      "wooden",
+      "indoor",
+      "plush",
+      "educational"
+    ],
+    "category": "Toys",
+    "metadata": {
+      "price": 464.09,
+      "rating": 4.4,
+      "stock": 11
+    },
+    "search_document": "Kids Plane. Affordable plane without compromising quality. Tags: STEM, wooden, indoor, plush, educational. Category: Toys. Price: $464.09. Rating: 4.4/5. Stock: 11 units.",
+    "llm_keywords": "Kids Plane, Affordable, Quality, STEM, Wooden, Indoor, Plush, Educational, Toy, Affordable."
+  },
+  {
+    "id": 62,
+    "title": "Indoor Sprinkler",
+    "description": "Stylish sprinkler that combines form and function",
+    "tags": [
+      "expandable",
+      "durable",
+      "compact",
+      "biodegradable"
+    ],
+    "category": "Garden",
+    "metadata": {
+      "price": 60.18,
+      "rating": 4.6,
+      "stock": 19
+    },
+    "search_document": "Indoor Sprinkler. Stylish sprinkler that combines form and function. Tags: expandable, durable, compact, biodegradable. Category: Garden. Price: $60.18. Rating: 4.6/5. Stock: 19 units.",
+    "llm_keywords": "Indoor Sprinkler, Expandable, Durable, Compact, Biodegradable, Stylish, Garden, Affordable, 4.6 Rating, 19 Units."
+  },
+  {
+    "id": 63,
+    "title": "Kids Bear",
+    "description": "Innovative bear with advanced features",
+    "tags": [
+      "creative",
+      "electronic",
+      "outdoor",
+      "indoor"
+    ],
+    "category": "Toys",
+    "metadata": {
+      "price": 229.86,
+      "rating": 4.5,
+      "stock": 84
+    },
+    "search_document": "Kids Bear. Innovative bear with advanced features. Tags: creative, electronic, outdoor, indoor. Category: Toys. Price: $229.86. Rating: 4.5/5. Stock: 84 units.",
+    "llm_keywords": "Kids Bear, Electronic Toy, Advanced Features, Creative, Outdoor, Indoor, $229.86, 4.5/5, 84 units, Toy Category."
+  },
+  {
+    "id": 64,
+    "title": "Industrial Chair",
+    "description": "Affordable chair without compromising quality",
+    "tags": [
+      "adjustable",
+      "wooden",
+      "decorative"
+    ],
+    "category": "Home",
+    "metadata": {
+      "price": 256.82,
+      "rating": 4.6,
+      "stock": 24
+    },
+    "search_document": "Industrial Chair. Affordable chair without compromising quality. Tags: adjustable, wooden, decorative. Category: Home. Price: $256.82. Rating: 4.6/5. Stock: 24 units.",
+    "llm_keywords": "Industrial Chair, Affordable, Adjustable, Wooden, Decorative, Home, $256.82, 4.6/5, 24 units."
+  },
+  {
+    "id": 65,
+    "title": "Rustic Chair",
+    "description": "Professional-grade chair for serious users",
+    "tags": [
+      "functional",
+      "wooden",
+      "fabric",
+      "decorative"
+    ],
+    "category": "Home",
+    "metadata": {
+      "price": 13.39,
+      "rating": 3.7,
+      "stock": 72
+    },
+    "search_document": "Rustic Chair. Professional-grade chair for serious users. Tags: functional, wooden, fabric, decorative. Category: Home. Price: $13.39. Rating: 3.7/5. Stock: 72 units.",
+    "llm_keywords": "Rustic Chair, wooden, functional, decorative, home, fabric, professional, serious, 3.7, $13.39."
+  },
+  {
+    "id": 66,
+    "title": "Moisturizing Lotion",
+    "description": "Compact lotion ideal for limited spaces",
+    "tags": [
+      "organic",
+      "cruelty-free",
+      "hypoallergenic"
+    ],
+    "category": "Beauty",
+    "metadata": {
+      "price": 78.27,
+      "rating": 4.4,
+      "stock": 70
+    },
+    "search_document": "Moisturizing Lotion. Compact lotion ideal for limited spaces. Tags: organic, cruelty-free, hypoallergenic. Category: Beauty. Price: $78.27. Rating: 4.4/5. Stock: 70 units.",
+    "llm_keywords": "Organic, cruelty-free, hypoallergenic, compact, moisturizing, lotion, beauty, affordable, 4.4, limited."
+  },
+  {
+    "id": 67,
+    "title": "Automatic Trimmer",
+    "description": "Versatile trimmer suitable for multiple purposes",
+    "tags": [
+      "rust-resistant",
+      "lightweight",
+      "durable",
+      "biodegradable"
+    ],
+    "category": "Garden",
+    "metadata": {
+      "price": 293.6,
+      "rating": 4.5,
+      "stock": 5
+    },
+    "search_document": "Automatic Trimmer. Versatile trimmer suitable for multiple purposes. Tags: rust-resistant, lightweight, durable, biodegradable. Category: Garden. Price: $293.6. Rating: 4.5/5. Stock: 5 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 68,
+    "title": "Indoor Seeds",
+    "description": "Versatile seeds suitable for multiple purposes",
+    "tags": [
+      "sustainable",
+      "durable",
+      "biodegradable"
+    ],
+    "category": "Garden",
+    "metadata": {
+      "price": 30.17,
+      "rating": 5.0,
+      "stock": 67
+    },
+    "search_document": "Indoor Seeds. Versatile seeds suitable for multiple purposes. Tags: sustainable, durable, biodegradable. Category: Garden. Price: $30.17. Rating: 5.0/5. Stock: 67 units.",
+    "llm_keywords": "Indoor seeds, sustainable, durable, biodegradable, versatile, garden, $30.17, 5.0, 67 units."
+  },
+  {
+    "id": 69,
+    "title": "Swimming Bag",
+    "description": "Durable bag built to last",
+    "tags": [
+      "adjustable",
+      "outdoor",
+      "professional",
+      "durable",
+      "waterproof"
+    ],
+    "category": "Sports",
+    "metadata": {
+      "price": 333.9,
+      "rating": 4.2,
+      "stock": 92
+    },
+    "search_document": "Swimming Bag. Durable bag built to last. Tags: adjustable, outdoor, professional, durable, waterproof. Category: Sports. Price: $333.9. Rating: 4.2/5. Stock: 92 units.",
+    "llm_keywords": "Durable, waterproof, adjustable, outdoor, professional, sports, swimming, bag, affordable, quality."
+  },
+  {
+    "id": 70,
+    "title": "Trendy Jeans",
+    "description": "Affordable jeans without compromising quality",
+    "tags": [
+      "eco-friendly",
+      "breathable",
+      "stretchable",
+      "waterproof",
+      "lightweight"
+    ],
+    "category": "Clothing",
+    "metadata": {
+      "price": 286.08,
+      "rating": 3.6,
+      "stock": 57
+    },
+    "search_document": "Trendy Jeans. Affordable jeans without compromising quality. Tags: eco-friendly, breathable, stretchable, waterproof, lightweight. Category: Clothing. Price: $286.08. Rating: 3.6/5. Stock: 57 units.",
+    "llm_keywords": "Trendy, Affordable, Jeans, Eco-friendly, Breathable, Stretchable, Waterproof, Lightweight, Clothing, Quality"
+  },
+  {
+    "id": 71,
+    "title": "Science Cookbook",
+    "description": "Versatile cookbook suitable for multiple purposes",
+    "tags": [
+      "bestseller",
+      "modern",
+      "comprehensive"
+    ],
+    "category": "Books",
+    "metadata": {
+      "price": 447.39,
+      "rating": 4.1,
+      "stock": 31
+    },
+    "search_document": "Science Cookbook. Versatile cookbook suitable for multiple purposes. Tags: bestseller, modern, comprehensive. Category: Books. Price: $447.39. Rating: 4.1/5. Stock: 31 units.",
+    "llm_keywords": "Science Cookbook, bestseller, modern, comprehensive, versatile, multiple, purposes, books, $447.39, 4.1/5."
+  },
+  {
+    "id": 72,
+    "title": "Brightening Shampoo",
+    "description": "High-quality shampoo perfect for everyday use",
+    "tags": [
+      "paraben-free",
+      "hypoallergenic",
+      "dermatologist-tested"
+    ],
+    "category": "Beauty",
+    "metadata": {
+      "price": 32.22,
+      "rating": 4.4,
+      "stock": 26
+    },
+    "search_document": "Brightening Shampoo. High-quality shampoo perfect for everyday use. Tags: paraben-free, hypoallergenic, dermatologist-tested. Category: Beauty. Price: $32.22. Rating: 4.4/5. Stock: 26 units.",
+    "llm_keywords": "Paraben-free, hypoallergenic, dermatologist-tested, brightening, shampoo, everyday, use, beauty, high-quality, affordable."
+  },
+  {
+    "id": 73,
+    "title": "Toddler Game",
+    "description": "Professional-grade game for serious users",
+    "tags": [
+      "wooden",
+      "collectible",
+      "outdoor",
+      "electronic"
+    ],
+    "category": "Toys",
+    "metadata": {
+      "price": 184.31,
+      "rating": 4.4,
+      "stock": 93
+    },
+    "search_document": "Toddler Game. Professional-grade game for serious users. Tags: wooden, collectible, outdoor, electronic. Category: Toys. Price: $184.31. Rating: 4.4/5. Stock: 93 units.",
+    "llm_keywords": "Wooden, collectible, outdoor, electronic, toddler, game, toys, professional, electronic, collectible."
+  },
+  {
+    "id": 74,
+    "title": "Portable Microphone",
+    "description": "Versatile microphone suitable for multiple purposes",
+    "tags": [
+      "compact",
+      "wireless",
+      "modern",
+      "beginner-friendly",
+      "premium"
+    ],
+    "category": "Music",
+    "metadata": {
+      "price": 179.44,
+      "rating": 4.0,
+      "stock": 79
+    },
+    "search_document": "Portable Microphone. Versatile microphone suitable for multiple purposes. Tags: compact, wireless, modern, beginner-friendly, premium. Category: Music. Price: $179.44. Rating: 4.0/5. Stock: 79 units.",
+    "llm_keywords": "Portable, Wireless, Compact, Modern, Beginner, Premium, Music, Versatile, Microphone, Affordable."
+  },
+  {
+    "id": 75,
+    "title": "Trendy Pants",
+    "description": "Versatile pants suitable for multiple purposes",
+    "tags": [
+      "eco-friendly",
+      "designer",
+      "durable",
+      "stretchable"
+    ],
+    "category": "Clothing",
+    "metadata": {
+      "price": 249.04,
+      "rating": 4.6,
+      "stock": 100
+    },
+    "search_document": "Trendy Pants. Versatile pants suitable for multiple purposes. Tags: eco-friendly, designer, durable, stretchable. Category: Clothing. Price: $249.04. Rating: 4.6/5. Stock: 100 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 76,
+    "title": "Practice Amplifier",
+    "description": "Professional-grade amplifier for serious users",
+    "tags": [
+      "professional-grade",
+      "wireless",
+      "handcrafted",
+      "beginner-friendly",
+      "premium"
+    ],
+    "category": "Music",
+    "metadata": {
+      "price": 249.89,
+      "rating": 4.9,
+      "stock": 87
+    },
+    "search_document": "Practice Amplifier. Professional-grade amplifier for serious users. Tags: professional-grade, wireless, handcrafted, beginner-friendly, premium. Category: Music. Price: $249.89. Rating: 4.9/5. Stock: 87 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 77,
+    "title": "All Ages Train",
+    "description": "Stylish train that combines form and function",
+    "tags": [
+      "creative",
+      "STEM",
+      "plush"
+    ],
+    "category": "Toys",
+    "metadata": {
+      "price": 128.84,
+      "rating": 4.3,
+      "stock": 16
+    },
+    "search_document": "All Ages Train. Stylish train that combines form and function. Tags: creative, STEM, plush. Category: Toys. Price: $128.84. Rating: 4.3/5. Stock: 16 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 78,
+    "title": "Moisturizing Perfume",
+    "description": "Premium perfume designed for maximum comfort and performance",
+    "tags": [
+      "vegan",
+      "dermatologist-tested",
+      "clinical",
+      "fragrance-free",
+      "luxury"
+    ],
+    "category": "Beauty",
+    "metadata": {
+      "price": 391.1,
+      "rating": 4.0,
+      "stock": 56
+    },
+    "search_document": "Moisturizing Perfume. Premium perfume designed for maximum comfort and performance. Tags: vegan, dermatologist-tested, clinical, fragrance-free, luxury. Category: Beauty. Price: $391.1. Rating: 4.0/5. Stock: 56 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 79,
+    "title": "Organic Bread",
+    "description": "Professional-grade bread for serious users",
+    "tags": [
+      "imported",
+      "traditional",
+      "exotic",
+      "gourmet"
+    ],
+    "category": "Food",
+    "metadata": {
+      "price": 370.24,
+      "rating": 4.3,
+      "stock": 70
+    },
+    "search_document": "Organic Bread. Professional-grade bread for serious users. Tags: imported, traditional, exotic, gourmet. Category: Food. Price: $370.24. Rating: 4.3/5. Stock: 70 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 80,
+    "title": "Philosophy Atlas",
+    "description": "High-quality atlas perfect for everyday use",
+    "tags": [
+      "digital",
+      "hardcover",
+      "bestseller",
+      "reference"
+    ],
+    "category": "Books",
+    "metadata": {
+      "price": 258.12,
+      "rating": 4.7,
+      "stock": 36
+    },
+    "search_document": "Philosophy Atlas. High-quality atlas perfect for everyday use. Tags: digital, hardcover, bestseller, reference. Category: Books. Price: $258.12. Rating: 4.7/5. Stock: 36 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 81,
+    "title": "Whole Grain Cereal",
+    "description": "Elegant cereal that enhances any setting",
+    "tags": [
+      "gourmet",
+      "instant",
+      "nutritious",
+      "exotic",
+      "delicious"
+    ],
+    "category": "Food",
+    "metadata": {
+      "price": 393.27,
+      "rating": 4.0,
+      "stock": 68
+    },
+    "search_document": "Whole Grain Cereal. Elegant cereal that enhances any setting. Tags: gourmet, instant, nutritious, exotic, delicious. Category: Food. Price: $393.27. Rating: 4.0/5. Stock: 68 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 82,
+    "title": "Yoga Bike",
+    "description": "Premium bike designed for maximum comfort and performance",
+    "tags": [
+      "adjustable",
+      "ergonomic",
+      "indoor",
+      "beginner"
+    ],
+    "category": "Sports",
+    "metadata": {
+      "price": 248.04,
+      "rating": 4.6,
+      "stock": 0
+    },
+    "search_document": "Yoga Bike. Premium bike designed for maximum comfort and performance. Tags: adjustable, ergonomic, indoor, beginner. Category: Sports. Price: $248.04. Rating: 4.6/5. Stock: 0 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 83,
+    "title": "Natural Tea",
+    "description": "Affordable tea without compromising quality",
+    "tags": [
+      "homemade",
+      "imported",
+      "exotic"
+    ],
+    "category": "Food",
+    "metadata": {
+      "price": 255.2,
+      "rating": 4.4,
+      "stock": 78
+    },
+    "search_document": "Natural Tea. Affordable tea without compromising quality. Tags: homemade, imported, exotic. Category: Food. Price: $255.2. Rating: 4.4/5. Stock: 78 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 84,
+    "title": "Frozen Pasta",
+    "description": "High-quality pasta perfect for everyday use",
+    "tags": [
+      "traditional",
+      "instant",
+      "nutritious",
+      "local"
+    ],
+    "category": "Food",
+    "metadata": {
+      "price": 107.63,
+      "rating": 3.6,
+      "stock": 15
+    },
+    "search_document": "Frozen Pasta. High-quality pasta perfect for everyday use. Tags: traditional, instant, nutritious, local. Category: Food. Price: $107.63. Rating: 3.6/5. Stock: 15 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 85,
+    "title": "ElectroMax Laptop",
+    "description": "Stylish laptop that combines form and function",
+    "tags": [
+      "budget",
+      "professional",
+      "portable",
+      "4K",
+      "premium"
+    ],
+    "category": "Electronics",
+    "metadata": {
+      "price": 262.21,
+      "rating": 4.9,
+      "stock": 31
+    },
+    "search_document": "ElectroMax Laptop. Stylish laptop that combines form and function. Tags: budget, professional, portable, 4K, premium. Category: Electronics. Price: $262.21. Rating: 4.9/5. Stock: 31 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 86,
+    "title": "Nourishing Shampoo",
+    "description": "Affordable shampoo without compromising quality",
+    "tags": [
+      "fragrance-free",
+      "natural",
+      "dermatologist-tested"
+    ],
+    "category": "Beauty",
+    "metadata": {
+      "price": 20.68,
+      "rating": 4.8,
+      "stock": 66
+    },
+    "search_document": "Nourishing Shampoo. Affordable shampoo without compromising quality. Tags: fragrance-free, natural, dermatologist-tested. Category: Beauty. Price: $20.68. Rating: 4.8/5. Stock: 66 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 87,
+    "title": "Scandinavian Sofa",
+    "description": "Versatile sofa suitable for multiple purposes",
+    "tags": [
+      "metal",
+      "decorative",
+      "glass",
+      "elegant",
+      "wooden"
+    ],
+    "category": "Home",
+    "metadata": {
+      "price": 101.09,
+      "rating": 4.0,
+      "stock": 60
+    },
+    "search_document": "Scandinavian Sofa. Versatile sofa suitable for multiple purposes. Tags: metal, decorative, glass, elegant, wooden. Category: Home. Price: $101.09. Rating: 4.0/5. Stock: 60 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 88,
+    "title": "Student Drum",
+    "description": "Affordable drum without compromising quality",
+    "tags": [
+      "affordable",
+      "beginner-friendly",
+      "wireless"
+    ],
+    "category": "Music",
+    "metadata": {
+      "price": 133.57,
+      "rating": 4.7,
+      "stock": 16
+    },
+    "search_document": "Student Drum. Affordable drum without compromising quality. Tags: affordable, beginner-friendly, wireless. Category: Music. Price: $133.57. Rating: 4.7/5. Stock: 16 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 89,
+    "title": "Vegan Chocolate",
+    "description": "Stylish chocolate that combines form and function",
+    "tags": [
+      "instant",
+      "nutritious",
+      "delicious",
+      "exotic",
+      "healthy"
+    ],
+    "category": "Food",
+    "metadata": {
+      "price": 464.18,
+      "rating": 4.9,
+      "stock": 29
+    },
+    "search_document": "Vegan Chocolate. Stylish chocolate that combines form and function. Tags: instant, nutritious, delicious, exotic, healthy. Category: Food. Price: $464.18. Rating: 4.9/5. Stock: 29 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 90,
+    "title": "Contemporary Table",
+    "description": "Durable table built to last",
+    "tags": [
+      "wooden",
+      "metal",
+      "space-saving"
+    ],
+    "category": "Home",
+    "metadata": {
+      "price": 372.17,
+      "rating": 4.0,
+      "stock": 9
+    },
+    "search_document": "Contemporary Table. Durable table built to last. Tags: wooden, metal, space-saving. Category: Home. Price: $372.17. Rating: 4.0/5. Stock: 9 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 91,
+    "title": "Minimalist Mirror",
+    "description": "Elegant mirror that enhances any setting",
+    "tags": [
+      "elegant",
+      "glass",
+      "metal"
+    ],
+    "category": "Home",
+    "metadata": {
+      "price": 271.97,
+      "rating": 4.8,
+      "stock": 82
+    },
+    "search_document": "Minimalist Mirror. Elegant mirror that enhances any setting. Tags: elegant, glass, metal. Category: Home. Price: $271.97. Rating: 4.8/5. Stock: 82 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 92,
+    "title": "Automatic Gloves",
+    "description": "Stylish gloves that combines form and function",
+    "tags": [
+      "rust-resistant",
+      "weather-resistant",
+      "lightweight",
+      "biodegradable"
+    ],
+    "category": "Garden",
+    "metadata": {
+      "price": 124.67,
+      "rating": 4.6,
+      "stock": 53
+    },
+    "search_document": "Automatic Gloves. Stylish gloves that combines form and function. Tags: rust-resistant, weather-resistant, lightweight, biodegradable. Category: Garden. Price: $124.67. Rating: 4.6/5. Stock: 53 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 93,
+    "title": "Gym Ball",
+    "description": "Versatile ball suitable for multiple purposes",
+    "tags": [
+      "professional",
+      "adjustable",
+      "beginner",
+      "outdoor"
+    ],
+    "category": "Sports",
+    "metadata": {
+      "price": 26.31,
+      "rating": 4.0,
+      "stock": 93
+    },
+    "search_document": "Gym Ball. Versatile ball suitable for multiple purposes. Tags: professional, adjustable, beginner, outdoor. Category: Sports. Price: $26.31. Rating: 4.0/5. Stock: 93 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 94,
+    "title": "Cycling Mat",
+    "description": "Innovative mat with advanced features",
+    "tags": [
+      "ergonomic",
+      "lightweight",
+      "adjustable"
+    ],
+    "category": "Sports",
+    "metadata": {
+      "price": 429.98,
+      "rating": 4.3,
+      "stock": 86
+    },
+    "search_document": "Cycling Mat. Innovative mat with advanced features. Tags: ergonomic, lightweight, adjustable. Category: Sports. Price: $429.98. Rating: 4.3/5. Stock: 86 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 95,
+    "title": "Functional Sprinkler",
+    "description": "Durable sprinkler built to last",
+    "tags": [
+      "expandable",
+      "heavy-duty",
+      "lightweight",
+      "weather-resistant",
+      "ergonomic"
+    ],
+    "category": "Garden",
+    "metadata": {
+      "price": 26.38,
+      "rating": 4.4,
+      "stock": 34
+    },
+    "search_document": "Functional Sprinkler. Durable sprinkler built to last. Tags: expandable, heavy-duty, lightweight, weather-resistant, ergonomic. Category: Garden. Price: $26.38. Rating: 4.4/5. Stock: 34 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 96,
+    "title": "Moisturizing Mask",
+    "description": "Durable mask built to last",
+    "tags": [
+      "dermatologist-tested",
+      "luxury",
+      "vegan",
+      "paraben-free",
+      "cruelty-free"
+    ],
+    "category": "Beauty",
+    "metadata": {
+      "price": 360.02,
+      "rating": 4.4,
+      "stock": 25
+    },
+    "search_document": "Moisturizing Mask. Durable mask built to last. Tags: dermatologist-tested, luxury, vegan, paraben-free, cruelty-free. Category: Beauty. Price: $360.02. Rating: 4.4/5. Stock: 25 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 97,
+    "title": "Electric Gloves",
+    "description": "Elegant gloves that enhances any setting",
+    "tags": [
+      "expandable",
+      "sustainable",
+      "compact",
+      "biodegradable",
+      "ergonomic"
+    ],
+    "category": "Garden",
+    "metadata": {
+      "price": 495.74,
+      "rating": 4.0,
+      "stock": 88
+    },
+    "search_document": "Electric Gloves. Elegant gloves that enhances any setting. Tags: expandable, sustainable, compact, biodegradable, ergonomic. Category: Garden. Price: $495.74. Rating: 4.0/5. Stock: 88 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 98,
+    "title": "Stage Synthesizer",
+    "description": "Compact synthesizer ideal for limited spaces",
+    "tags": [
+      "wireless",
+      "premium",
+      "handcrafted"
+    ],
+    "category": "Music",
+    "metadata": {
+      "price": 298.89,
+      "rating": 5.0,
+      "stock": 13
+    },
+    "search_document": "Stage Synthesizer. Compact synthesizer ideal for limited spaces. Tags: wireless, premium, handcrafted. Category: Music. Price: $298.89. Rating: 5.0/5. Stock: 13 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 99,
+    "title": "Manual Seeds",
+    "description": "Elegant seeds that enhances any setting",
+    "tags": [
+      "sustainable",
+      "compact",
+      "expandable",
+      "ergonomic",
+      "lightweight"
+    ],
+    "category": "Garden",
+    "metadata": {
+      "price": 46.28,
+      "rating": 4.4,
+      "stock": 52
+    },
+    "search_document": "Manual Seeds. Elegant seeds that enhances any setting. Tags: sustainable, compact, expandable, ergonomic, lightweight. Category: Garden. Price: $46.28. Rating: 4.4/5. Stock: 52 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 100,
+    "title": "Revitalizing Spray",
+    "description": "Durable spray built to last",
+    "tags": [
+      "dermatologist-tested",
+      "organic",
+      "fragrance-free"
+    ],
+    "category": "Beauty",
+    "metadata": {
+      "price": 283.13,
+      "rating": 4.4,
+      "stock": 82
+    },
+    "search_document": "Revitalizing Spray. Durable spray built to last. Tags: dermatologist-tested, organic, fragrance-free. Category: Beauty. Price: $283.13. Rating: 4.4/5. Stock: 82 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 101,
+    "title": "GadgetHub Smartwatch",
+    "description": "Versatile smartwatch suitable for multiple purposes",
+    "tags": [
+      "bluetooth",
+      "premium",
+      "budget",
+      "wireless",
+      "4K"
+    ],
+    "category": "Electronics",
+    "metadata": {
+      "price": 187.47,
+      "rating": 4.0,
+      "stock": 18
+    },
+    "search_document": "GadgetHub Smartwatch. Versatile smartwatch suitable for multiple purposes. Tags: bluetooth, premium, budget, wireless, 4K. Category: Electronics. Price: $187.47. Rating: 4.0/5. Stock: 18 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 102,
+    "title": "Bohemian Lamp",
+    "description": "Innovative lamp with advanced features",
+    "tags": [
+      "adjustable",
+      "fabric",
+      "wooden",
+      "metal",
+      "handcrafted"
+    ],
+    "category": "Home",
+    "metadata": {
+      "price": 349.74,
+      "rating": 4.7,
+      "stock": 38
+    },
+    "search_document": "Bohemian Lamp. Innovative lamp with advanced features. Tags: adjustable, fabric, wooden, metal, handcrafted. Category: Home. Price: $349.74. Rating: 4.7/5. Stock: 38 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 103,
+    "title": "Health Encyclopedia",
+    "description": "High-quality encyclopedia perfect for everyday use",
+    "tags": [
+      "bestseller",
+      "hardcover",
+      "illustrated",
+      "educational"
+    ],
+    "category": "Books",
+    "metadata": {
+      "price": 150.91,
+      "rating": 3.7,
+      "stock": 68
+    },
+    "search_document": "Health Encyclopedia. High-quality encyclopedia perfect for everyday use. Tags: bestseller, hardcover, illustrated, educational. Category: Books. Price: $150.91. Rating: 3.7/5. Stock: 68 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 104,
+    "title": "Toddler Plane",
+    "description": "Professional-grade plane for serious users",
+    "tags": [
+      "creative",
+      "plush",
+      "electronic",
+      "STEM"
+    ],
+    "category": "Toys",
+    "metadata": {
+      "price": 224.9,
+      "rating": 4.2,
+      "stock": 65
+    },
+    "search_document": "Toddler Plane. Professional-grade plane for serious users. Tags: creative, plush, electronic, STEM. Category: Toys. Price: $224.9. Rating: 4.2/5. Stock: 65 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 105,
+    "title": "Toddler Robot",
+    "description": "Stylish robot that combines form and function",
+    "tags": [
+      "collectible",
+      "creative",
+      "interactive",
+      "plush"
+    ],
+    "category": "Toys",
+    "metadata": {
+      "price": 136.89,
+      "rating": 3.9,
+      "stock": 22
+    },
+    "search_document": "Toddler Robot. Stylish robot that combines form and function. Tags: collectible, creative, interactive, plush. Category: Toys. Price: $136.89. Rating: 3.9/5. Stock: 22 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 106,
+    "title": "Stage Guitar",
+    "description": "High-quality guitar perfect for everyday use",
+    "tags": [
+      "affordable",
+      "modern",
+      "full-size",
+      "compact",
+      "premium"
+    ],
+    "category": "Music",
+    "metadata": {
+      "price": 485.67,
+      "rating": 4.0,
+      "stock": 34
+    },
+    "search_document": "Stage Guitar. High-quality guitar perfect for everyday use. Tags: affordable, modern, full-size, compact, premium. Category: Music. Price: $485.67. Rating: 4.0/5. Stock: 34 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 107,
+    "title": "Luxury Bed",
+    "description": "Premium bed designed for maximum comfort and performance",
+    "tags": [
+      "functional",
+      "wooden",
+      "space-saving",
+      "handcrafted",
+      "fabric"
+    ],
+    "category": "Home",
+    "metadata": {
+      "price": 102.57,
+      "rating": 4.9,
+      "stock": 4
+    },
+    "search_document": "Luxury Bed. Premium bed designed for maximum comfort and performance. Tags: functional, wooden, space-saving, handcrafted, fabric. Category: Home. Price: $102.57. Rating: 4.9/5. Stock: 4 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 108,
+    "title": "Business Guide",
+    "description": "Versatile guide suitable for multiple purposes",
+    "tags": [
+      "modern",
+      "comprehensive",
+      "hardcover",
+      "paperback",
+      "digital"
+    ],
+    "category": "Books",
+    "metadata": {
+      "price": 230.95,
+      "rating": 5.0,
+      "stock": 86
+    },
+    "search_document": "Business Guide. Versatile guide suitable for multiple purposes. Tags: modern, comprehensive, hardcover, paperback, digital. Category: Books. Price: $230.95. Rating: 5.0/5. Stock: 86 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 109,
+    "title": "Premium Coffee",
+    "description": "Durable coffee built to last",
+    "tags": [
+      "exotic",
+      "gourmet",
+      "nutritious",
+      "instant",
+      "healthy"
+    ],
+    "category": "Food",
+    "metadata": {
+      "price": 427.94,
+      "rating": 3.8,
+      "stock": 19
+    },
+    "search_document": "Premium Coffee. Durable coffee built to last. Tags: exotic, gourmet, nutritious, instant, healthy. Category: Food. Price: $427.94. Rating: 3.8/5. Stock: 19 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 110,
+    "title": "Anti-Aging Lotion",
+    "description": "Versatile lotion suitable for multiple purposes",
+    "tags": [
+      "paraben-free",
+      "cruelty-free",
+      "luxury",
+      "hypoallergenic"
+    ],
+    "category": "Beauty",
+    "metadata": {
+      "price": 370.35,
+      "rating": 4.6,
+      "stock": 70
+    },
+    "search_document": "Anti-Aging Lotion. Versatile lotion suitable for multiple purposes. Tags: paraben-free, cruelty-free, luxury, hypoallergenic. Category: Beauty. Price: $370.35. Rating: 4.6/5. Stock: 70 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 111,
+    "title": "TechPro Monitor",
+    "description": "Affordable monitor without compromising quality",
+    "tags": [
+      "professional",
+      "HD",
+      "4K"
+    ],
+    "category": "Electronics",
+    "metadata": {
+      "price": 293.71,
+      "rating": 3.7,
+      "stock": 79
+    },
+    "search_document": "TechPro Monitor. Affordable monitor without compromising quality. Tags: professional, HD, 4K. Category: Electronics. Price: $293.71. Rating: 3.7/5. Stock: 79 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 112,
+    "title": "Fresh Snacks",
+    "description": "Professional-grade snacks for serious users",
+    "tags": [
+      "imported",
+      "traditional",
+      "exotic",
+      "instant"
+    ],
+    "category": "Food",
+    "metadata": {
+      "price": 388.96,
+      "rating": 4.7,
+      "stock": 31
+    },
+    "search_document": "Fresh Snacks. Professional-grade snacks for serious users. Tags: imported, traditional, exotic, instant. Category: Food. Price: $388.96. Rating: 4.7/5. Stock: 31 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 113,
+    "title": "Classic Jacket",
+    "description": "Innovative jacket with advanced features",
+    "tags": [
+      "breathable",
+      "leather",
+      "waterproof",
+      "lightweight"
+    ],
+    "category": "Clothing",
+    "metadata": {
+      "price": 257.86,
+      "rating": 4.7,
+      "stock": 66
+    },
+    "search_document": "Classic Jacket. Innovative jacket with advanced features. Tags: breathable, leather, waterproof, lightweight. Category: Clothing. Price: $257.86. Rating: 4.7/5. Stock: 66 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 114,
+    "title": "Cleansing Oil",
+    "description": "Stylish oil that combines form and function",
+    "tags": [
+      "vegan",
+      "cruelty-free",
+      "hypoallergenic"
+    ],
+    "category": "Beauty",
+    "metadata": {
+      "price": 283.36,
+      "rating": 4.9,
+      "stock": 11
+    },
+    "search_document": "Cleansing Oil. Stylish oil that combines form and function. Tags: vegan, cruelty-free, hypoallergenic. Category: Beauty. Price: $283.36. Rating: 4.9/5. Stock: 11 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 115,
+    "title": "Electric Sprinkler",
+    "description": "Compact sprinkler ideal for limited spaces",
+    "tags": [
+      "sustainable",
+      "ergonomic",
+      "compact",
+      "heavy-duty"
+    ],
+    "category": "Garden",
+    "metadata": {
+      "price": 123.72,
+      "rating": 5.0,
+      "stock": 90
+    },
+    "search_document": "Electric Sprinkler. Compact sprinkler ideal for limited spaces. Tags: sustainable, ergonomic, compact, heavy-duty. Category: Garden. Price: $123.72. Rating: 5.0/5. Stock: 90 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 116,
+    "title": "Stylish Sweater",
+    "description": "High-quality sweater perfect for everyday use",
+    "tags": [
+      "cotton",
+      "designer",
+      "durable",
+      "breathable",
+      "eco-friendly"
+    ],
+    "category": "Clothing",
+    "metadata": {
+      "price": 117.2,
+      "rating": 4.5,
+      "stock": 34
+    },
+    "search_document": "Stylish Sweater. High-quality sweater perfect for everyday use. Tags: cotton, designer, durable, breathable, eco-friendly. Category: Clothing. Price: $117.2. Rating: 4.5/5. Stock: 34 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 117,
+    "title": "Modern Lamp",
+    "description": "High-quality lamp perfect for everyday use",
+    "tags": [
+      "handcrafted",
+      "elegant",
+      "metal",
+      "decorative",
+      "glass"
+    ],
+    "category": "Home",
+    "metadata": {
+      "price": 21.18,
+      "rating": 4.8,
+      "stock": 48
+    },
+    "search_document": "Modern Lamp. High-quality lamp perfect for everyday use. Tags: handcrafted, elegant, metal, decorative, glass. Category: Home. Price: $21.18. Rating: 4.8/5. Stock: 48 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 118,
+    "title": "Kids Doll",
+    "description": "Stylish doll that combines form and function",
+    "tags": [
+      "creative",
+      "wooden",
+      "STEM",
+      "outdoor",
+      "educational"
+    ],
+    "category": "Toys",
+    "metadata": {
+      "price": 28.31,
+      "rating": 3.7,
+      "stock": 16
+    },
+    "search_document": "Kids Doll. Stylish doll that combines form and function. Tags: creative, wooden, STEM, outdoor, educational. Category: Toys. Price: $28.31. Rating: 3.7/5. Stock: 16 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 119,
+    "title": "Vintage Bed",
+    "description": "Versatile bed suitable for multiple purposes",
+    "tags": [
+      "handcrafted",
+      "elegant",
+      "functional",
+      "decorative"
+    ],
+    "category": "Home",
+    "metadata": {
+      "price": 344.19,
+      "rating": 4.3,
+      "stock": 31
+    },
+    "search_document": "Vintage Bed. Versatile bed suitable for multiple purposes. Tags: handcrafted, elegant, functional, decorative. Category: Home. Price: $344.19. Rating: 4.3/5. Stock: 31 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 120,
+    "title": "Art Cookbook",
+    "description": "Durable cookbook built to last",
+    "tags": [
+      "reference",
+      "illustrated",
+      "educational",
+      "classic"
+    ],
+    "category": "Books",
+    "metadata": {
+      "price": 273.62,
+      "rating": 4.1,
+      "stock": 63
+    },
+    "search_document": "Art Cookbook. Durable cookbook built to last. Tags: reference, illustrated, educational, classic. Category: Books. Price: $273.62. Rating: 4.1/5. Stock: 63 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 121,
+    "title": "Practice Violin",
+    "description": "Elegant violin that enhances any setting",
+    "tags": [
+      "vintage",
+      "premium",
+      "full-size"
+    ],
+    "category": "Music",
+    "metadata": {
+      "price": 391.19,
+      "rating": 4.5,
+      "stock": 1
+    },
+    "search_document": "Practice Violin. Elegant violin that enhances any setting. Tags: vintage, premium, full-size. Category: Music. Price: $391.19. Rating: 4.5/5. Stock: 1 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 122,
+    "title": "Stylish Coat",
+    "description": "Premium coat designed for maximum comfort and performance",
+    "tags": [
+      "lightweight",
+      "eco-friendly",
+      "durable",
+      "leather"
+    ],
+    "category": "Clothing",
+    "metadata": {
+      "price": 478.94,
+      "rating": 3.5,
+      "stock": 72
+    },
+    "search_document": "Stylish Coat. Premium coat designed for maximum comfort and performance. Tags: lightweight, eco-friendly, durable, leather. Category: Clothing. Price: $478.94. Rating: 3.5/5. Stock: 72 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 123,
+    "title": "SmartTech Camera",
+    "description": "Durable camera built to last",
+    "tags": [
+      "4K",
+      "budget",
+      "HD",
+      "professional"
+    ],
+    "category": "Electronics",
+    "metadata": {
+      "price": 49.42,
+      "rating": 4.3,
+      "stock": 69
+    },
+    "search_document": "SmartTech Camera. Durable camera built to last. Tags: 4K, budget, HD, professional. Category: Electronics. Price: $49.42. Rating: 4.3/5. Stock: 69 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 124,
+    "title": "Electric Amplifier",
+    "description": "Durable amplifier built to last",
+    "tags": [
+      "beginner-friendly",
+      "compact",
+      "vintage"
+    ],
+    "category": "Music",
+    "metadata": {
+      "price": 460.79,
+      "rating": 3.9,
+      "stock": 0
+    },
+    "search_document": "Electric Amplifier. Durable amplifier built to last. Tags: beginner-friendly, compact, vintage. Category: Music. Price: $460.79. Rating: 3.9/5. Stock: 0 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 125,
+    "title": "Outdoor Trimmer",
+    "description": "Professional-grade trimmer for serious users",
+    "tags": [
+      "lightweight",
+      "durable",
+      "expandable",
+      "heavy-duty"
+    ],
+    "category": "Garden",
+    "metadata": {
+      "price": 109.58,
+      "rating": 4.1,
+      "stock": 9
+    },
+    "search_document": "Outdoor Trimmer. Professional-grade trimmer for serious users. Tags: lightweight, durable, expandable, heavy-duty. Category: Garden. Price: $109.58. Rating: 4.1/5. Stock: 9 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 126,
+    "title": "Travel Manual",
+    "description": "Compact manual ideal for limited spaces",
+    "tags": [
+      "hardcover",
+      "illustrated",
+      "comprehensive",
+      "paperback",
+      "reference"
+    ],
+    "category": "Books",
+    "metadata": {
+      "price": 477.18,
+      "rating": 4.0,
+      "stock": 66
+    },
+    "search_document": "Travel Manual. Compact manual ideal for limited spaces. Tags: hardcover, illustrated, comprehensive, paperback, reference. Category: Books. Price: $477.18. Rating: 4.0/5. Stock: 66 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 127,
+    "title": "GadgetHub Mouse",
+    "description": "Elegant mouse that enhances any setting",
+    "tags": [
+      "HD",
+      "portable",
+      "budget"
+    ],
+    "category": "Electronics",
+    "metadata": {
+      "price": 453.47,
+      "rating": 4.2,
+      "stock": 46
+    },
+    "search_document": "GadgetHub Mouse. Elegant mouse that enhances any setting. Tags: HD, portable, budget. Category: Electronics. Price: $453.47. Rating: 4.2/5. Stock: 46 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 128,
+    "title": "Fresh Bread",
+    "description": "Premium bread designed for maximum comfort and performance",
+    "tags": [
+      "imported",
+      "delicious",
+      "local",
+      "homemade"
+    ],
+    "category": "Food",
+    "metadata": {
+      "price": 427.0,
+      "rating": 4.8,
+      "stock": 43
+    },
+    "search_document": "Fresh Bread. Premium bread designed for maximum comfort and performance. Tags: imported, delicious, local, homemade. Category: Food. Price: $427.0. Rating: 4.8/5. Stock: 43 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 129,
+    "title": "History Encyclopedia",
+    "description": "Elegant encyclopedia that enhances any setting",
+    "tags": [
+      "educational",
+      "bestseller",
+      "modern",
+      "reference"
+    ],
+    "category": "Books",
+    "metadata": {
+      "price": 444.46,
+      "rating": 4.9,
+      "stock": 33
+    },
+    "search_document": "History Encyclopedia. Elegant encyclopedia that enhances any setting. Tags: educational, bestseller, modern, reference. Category: Books. Price: $444.46. Rating: 4.9/5. Stock: 33 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 130,
+    "title": "Manual Fertilizer",
+    "description": "Durable fertilizer built to last",
+    "tags": [
+      "weather-resistant",
+      "rust-resistant",
+      "compact",
+      "sustainable"
+    ],
+    "category": "Garden",
+    "metadata": {
+      "price": 385.25,
+      "rating": 4.0,
+      "stock": 31
+    },
+    "search_document": "Manual Fertilizer. Durable fertilizer built to last. Tags: weather-resistant, rust-resistant, compact, sustainable. Category: Garden. Price: $385.25. Rating: 4.0/5. Stock: 31 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 131,
+    "title": "Electric Synthesizer",
+    "description": "Compact synthesizer ideal for limited spaces",
+    "tags": [
+      "handcrafted",
+      "full-size",
+      "professional-grade"
+    ],
+    "category": "Music",
+    "metadata": {
+      "price": 469.2,
+      "rating": 4.8,
+      "stock": 86
+    },
+    "search_document": "Electric Synthesizer. Compact synthesizer ideal for limited spaces. Tags: handcrafted, full-size, professional-grade. Category: Music. Price: $469.2. Rating: 4.8/5. Stock: 86 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 132,
+    "title": "Trendy Coat",
+    "description": "Affordable coat without compromising quality",
+    "tags": [
+      "cotton",
+      "leather",
+      "designer",
+      "stretchable",
+      "lightweight"
+    ],
+    "category": "Clothing",
+    "metadata": {
+      "price": 207.35,
+      "rating": 3.6,
+      "stock": 93
+    },
+    "search_document": "Trendy Coat. Affordable coat without compromising quality. Tags: cotton, leather, designer, stretchable, lightweight. Category: Clothing. Price: $207.35. Rating: 3.6/5. Stock: 93 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 133,
+    "title": "Traditional Sofa",
+    "description": "Versatile sofa suitable for multiple purposes",
+    "tags": [
+      "decorative",
+      "metal",
+      "space-saving"
+    ],
+    "category": "Home",
+    "metadata": {
+      "price": 40.95,
+      "rating": 4.6,
+      "stock": 50
+    },
+    "search_document": "Traditional Sofa. Versatile sofa suitable for multiple purposes. Tags: decorative, metal, space-saving. Category: Home. Price: $40.95. Rating: 4.6/5. Stock: 50 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 134,
+    "title": "Digital Keyboard",
+    "description": "Compact keyboard ideal for limited spaces",
+    "tags": [
+      "gaming",
+      "premium",
+      "wireless",
+      "bluetooth"
+    ],
+    "category": "Electronics",
+    "metadata": {
+      "price": 271.04,
+      "rating": 3.5,
+      "stock": 98
+    },
+    "search_document": "Digital Keyboard. Compact keyboard ideal for limited spaces. Tags: gaming, premium, wireless, bluetooth. Category: Electronics. Price: $271.04. Rating: 3.5/5. Stock: 98 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 135,
+    "title": "Football Mat",
+    "description": "Elegant mat that enhances any setting",
+    "tags": [
+      "high-performance",
+      "waterproof",
+      "durable"
+    ],
+    "category": "Sports",
+    "metadata": {
+      "price": 254.7,
+      "rating": 4.1,
+      "stock": 44
+    },
+    "search_document": "Football Mat. Elegant mat that enhances any setting. Tags: high-performance, waterproof, durable. Category: Sports. Price: $254.7. Rating: 4.1/5. Stock: 44 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 136,
+    "title": "Vintage Table",
+    "description": "Elegant table that enhances any setting",
+    "tags": [
+      "wooden",
+      "space-saving",
+      "decorative",
+      "handcrafted",
+      "elegant"
+    ],
+    "category": "Home",
+    "metadata": {
+      "price": 107.26,
+      "rating": 4.5,
+      "stock": 91
+    },
+    "search_document": "Vintage Table. Elegant table that enhances any setting. Tags: wooden, space-saving, decorative, handcrafted, elegant. Category: Home. Price: $107.26. Rating: 4.5/5. Stock: 91 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 137,
+    "title": "TechPro Tablet",
+    "description": "Innovative tablet with advanced features",
+    "tags": [
+      "portable",
+      "professional",
+      "budget",
+      "HD"
+    ],
+    "category": "Electronics",
+    "metadata": {
+      "price": 461.28,
+      "rating": 3.6,
+      "stock": 96
+    },
+    "search_document": "TechPro Tablet. Innovative tablet with advanced features. Tags: portable, professional, budget, HD. Category: Electronics. Price: $461.28. Rating: 3.6/5. Stock: 96 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 138,
+    "title": "Digital Guitar",
+    "description": "Premium guitar designed for maximum comfort and performance",
+    "tags": [
+      "vintage",
+      "handcrafted",
+      "modern",
+      "affordable",
+      "professional-grade"
+    ],
+    "category": "Music",
+    "metadata": {
+      "price": 235.04,
+      "rating": 4.8,
+      "stock": 83
+    },
+    "search_document": "Digital Guitar. Premium guitar designed for maximum comfort and performance. Tags: vintage, handcrafted, modern, affordable, professional-grade. Category: Music. Price: $235.04. Rating: 4.8/5. Stock: 83 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 139,
+    "title": "Professional Pot",
+    "description": "High-quality pot perfect for everyday use",
+    "tags": [
+      "compact",
+      "ergonomic",
+      "rust-resistant",
+      "weather-resistant",
+      "lightweight"
+    ],
+    "category": "Garden",
+    "metadata": {
+      "price": 354.75,
+      "rating": 4.2,
+      "stock": 89
+    },
+    "search_document": "Professional Pot. High-quality pot perfect for everyday use. Tags: compact, ergonomic, rust-resistant, weather-resistant, lightweight. Category: Garden. Price: $354.75. Rating: 4.2/5. Stock: 89 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 140,
+    "title": "All Ages Robot",
+    "description": "Versatile robot suitable for multiple purposes",
+    "tags": [
+      "outdoor",
+      "wooden",
+      "educational",
+      "STEM"
+    ],
+    "category": "Toys",
+    "metadata": {
+      "price": 373.28,
+      "rating": 4.5,
+      "stock": 3
+    },
+    "search_document": "All Ages Robot. Versatile robot suitable for multiple purposes. Tags: outdoor, wooden, educational, STEM. Category: Toys. Price: $373.28. Rating: 4.5/5. Stock: 3 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 141,
+    "title": "Stage Guitar",
+    "description": "Compact guitar ideal for limited spaces",
+    "tags": [
+      "modern",
+      "full-size",
+      "affordable",
+      "premium"
+    ],
+    "category": "Music",
+    "metadata": {
+      "price": 359.42,
+      "rating": 3.6,
+      "stock": 34
+    },
+    "search_document": "Stage Guitar. Compact guitar ideal for limited spaces. Tags: modern, full-size, affordable, premium. Category: Music. Price: $359.42. Rating: 3.6/5. Stock: 34 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 142,
+    "title": "Preschool Plane",
+    "description": "Affordable plane without compromising quality",
+    "tags": [
+      "outdoor",
+      "wooden",
+      "indoor"
+    ],
+    "category": "Toys",
+    "metadata": {
+      "price": 284.66,
+      "rating": 4.1,
+      "stock": 75
+    },
+    "search_document": "Preschool Plane. Affordable plane without compromising quality. Tags: outdoor, wooden, indoor. Category: Toys. Price: $284.66. Rating: 4.1/5. Stock: 75 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 143,
+    "title": "Contemporary Bed",
+    "description": "Compact bed ideal for limited spaces",
+    "tags": [
+      "metal",
+      "wooden",
+      "decorative"
+    ],
+    "category": "Home",
+    "metadata": {
+      "price": 344.17,
+      "rating": 3.7,
+      "stock": 88
+    },
+    "search_document": "Contemporary Bed. Compact bed ideal for limited spaces. Tags: metal, wooden, decorative. Category: Home. Price: $344.17. Rating: 3.7/5. Stock: 88 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 144,
+    "title": "Indoor Soil",
+    "description": "Durable soil built to last",
+    "tags": [
+      "ergonomic",
+      "rust-resistant",
+      "sustainable",
+      "expandable"
+    ],
+    "category": "Garden",
+    "metadata": {
+      "price": 305.66,
+      "rating": 4.5,
+      "stock": 89
+    },
+    "search_document": "Indoor Soil. Durable soil built to last. Tags: ergonomic, rust-resistant, sustainable, expandable. Category: Garden. Price: $305.66. Rating: 4.5/5. Stock: 89 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 145,
+    "title": "Hydrating Mask",
+    "description": "Compact mask ideal for limited spaces",
+    "tags": [
+      "paraben-free",
+      "fragrance-free",
+      "luxury"
+    ],
+    "category": "Beauty",
+    "metadata": {
+      "price": 111.99,
+      "rating": 4.0,
+      "stock": 83
+    },
+    "search_document": "Hydrating Mask. Compact mask ideal for limited spaces. Tags: paraben-free, fragrance-free, luxury. Category: Beauty. Price: $111.99. Rating: 4.0/5. Stock: 83 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 146,
+    "title": "Teens Plane",
+    "description": "Durable plane built to last",
+    "tags": [
+      "educational",
+      "indoor",
+      "interactive"
+    ],
+    "category": "Toys",
+    "metadata": {
+      "price": 38.5,
+      "rating": 3.6,
+      "stock": 10
+    },
+    "search_document": "Teens Plane. Durable plane built to last. Tags: educational, indoor, interactive. Category: Toys. Price: $38.5. Rating: 3.6/5. Stock: 10 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 147,
+    "title": "Digital Violin",
+    "description": "High-quality violin perfect for everyday use",
+    "tags": [
+      "compact",
+      "wireless",
+      "beginner-friendly"
+    ],
+    "category": "Music",
+    "metadata": {
+      "price": 462.09,
+      "rating": 3.9,
+      "stock": 41
+    },
+    "search_document": "Digital Violin. High-quality violin perfect for everyday use. Tags: compact, wireless, beginner-friendly. Category: Music. Price: $462.09. Rating: 3.9/5. Stock: 41 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 148,
+    "title": "Casual Dress",
+    "description": "High-quality dress perfect for everyday use",
+    "tags": [
+      "durable",
+      "waterproof",
+      "eco-friendly",
+      "stretchable"
+    ],
+    "category": "Clothing",
+    "metadata": {
+      "price": 324.41,
+      "rating": 4.2,
+      "stock": 29
+    },
+    "search_document": "Casual Dress. High-quality dress perfect for everyday use. Tags: durable, waterproof, eco-friendly, stretchable. Category: Clothing. Price: $324.41. Rating: 4.2/5. Stock: 29 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 149,
+    "title": "Preschool Game",
+    "description": "Compact game ideal for limited spaces",
+    "tags": [
+      "outdoor",
+      "educational",
+      "electronic"
+    ],
+    "category": "Toys",
+    "metadata": {
+      "price": 17.85,
+      "rating": 4.2,
+      "stock": 13
+    },
+    "search_document": "Preschool Game. Compact game ideal for limited spaces. Tags: outdoor, educational, electronic. Category: Toys. Price: $17.85. Rating: 4.2/5. Stock: 13 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 150,
+    "title": "Practice Saxophone",
+    "description": "Elegant saxophone that enhances any setting",
+    "tags": [
+      "professional-grade",
+      "modern",
+      "beginner-friendly"
+    ],
+    "category": "Music",
+    "metadata": {
+      "price": 359.84,
+      "rating": 3.9,
+      "stock": 67
+    },
+    "search_document": "Practice Saxophone. Elegant saxophone that enhances any setting. Tags: professional-grade, modern, beginner-friendly. Category: Music. Price: $359.84. Rating: 3.9/5. Stock: 67 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 151,
+    "title": "All Ages Car",
+    "description": "Affordable car without compromising quality",
+    "tags": [
+      "indoor",
+      "wooden",
+      "STEM",
+      "plush",
+      "electronic"
+    ],
+    "category": "Toys",
+    "metadata": {
+      "price": 50.8,
+      "rating": 3.7,
+      "stock": 77
+    },
+    "search_document": "All Ages Car. Affordable car without compromising quality. Tags: indoor, wooden, STEM, plush, electronic. Category: Toys. Price: $50.8. Rating: 3.7/5. Stock: 77 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 152,
+    "title": "Casual Jacket",
+    "description": "Compact jacket ideal for limited spaces",
+    "tags": [
+      "leather",
+      "breathable",
+      "waterproof"
+    ],
+    "category": "Clothing",
+    "metadata": {
+      "price": 381.21,
+      "rating": 4.4,
+      "stock": 76
+    },
+    "search_document": "Casual Jacket. Compact jacket ideal for limited spaces. Tags: leather, breathable, waterproof. Category: Clothing. Price: $381.21. Rating: 4.4/5. Stock: 76 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 153,
+    "title": "Stage Amplifier",
+    "description": "High-quality amplifier perfect for everyday use",
+    "tags": [
+      "modern",
+      "professional-grade",
+      "vintage",
+      "premium",
+      "affordable"
+    ],
+    "category": "Music",
+    "metadata": {
+      "price": 344.35,
+      "rating": 4.0,
+      "stock": 53
+    },
+    "search_document": "Stage Amplifier. High-quality amplifier perfect for everyday use. Tags: modern, professional-grade, vintage, premium, affordable. Category: Music. Price: $344.35. Rating: 4.0/5. Stock: 53 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 154,
+    "title": "Fresh Juice",
+    "description": "Premium juice designed for maximum comfort and performance",
+    "tags": [
+      "homemade",
+      "delicious",
+      "nutritious"
+    ],
+    "category": "Food",
+    "metadata": {
+      "price": 387.62,
+      "rating": 4.3,
+      "stock": 20
+    },
+    "search_document": "Fresh Juice. Premium juice designed for maximum comfort and performance. Tags: homemade, delicious, nutritious. Category: Food. Price: $387.62. Rating: 4.3/5. Stock: 20 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 155,
+    "title": "Teens Train",
+    "description": "Stylish train that combines form and function",
+    "tags": [
+      "STEM",
+      "plush",
+      "interactive",
+      "wooden"
+    ],
+    "category": "Toys",
+    "metadata": {
+      "price": 10.96,
+      "rating": 4.3,
+      "stock": 24
+    },
+    "search_document": "Teens Train. Stylish train that combines form and function. Tags: STEM, plush, interactive, wooden. Category: Toys. Price: $10.96. Rating: 4.3/5. Stock: 24 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 156,
+    "title": "Premium Snacks",
+    "description": "Premium snacks designed for maximum comfort and performance",
+    "tags": [
+      "local",
+      "imported",
+      "healthy"
+    ],
+    "category": "Food",
+    "metadata": {
+      "price": 86.32,
+      "rating": 3.6,
+      "stock": 10
+    },
+    "search_document": "Premium Snacks. Premium snacks designed for maximum comfort and performance. Tags: local, imported, healthy. Category: Food. Price: $86.32. Rating: 3.6/5. Stock: 10 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 157,
+    "title": "Basketball Bottle",
+    "description": "Premium bottle designed for maximum comfort and performance",
+    "tags": [
+      "ergonomic",
+      "waterproof",
+      "beginner",
+      "professional"
+    ],
+    "category": "Sports",
+    "metadata": {
+      "price": 159.88,
+      "rating": 4.8,
+      "stock": 55
+    },
+    "search_document": "Basketball Bottle. Premium bottle designed for maximum comfort and performance. Tags: ergonomic, waterproof, beginner, professional. Category: Sports. Price: $159.88. Rating: 4.8/5. Stock: 55 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 158,
+    "title": "Cycling Bottle",
+    "description": "Versatile bottle suitable for multiple purposes",
+    "tags": [
+      "high-performance",
+      "waterproof",
+      "lightweight",
+      "indoor"
+    ],
+    "category": "Sports",
+    "metadata": {
+      "price": 475.41,
+      "rating": 4.1,
+      "stock": 77
+    },
+    "search_document": "Cycling Bottle. Versatile bottle suitable for multiple purposes. Tags: high-performance, waterproof, lightweight, indoor. Category: Sports. Price: $475.41. Rating: 4.1/5. Stock: 77 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 159,
+    "title": "Practice Violin",
+    "description": "Innovative violin with advanced features",
+    "tags": [
+      "vintage",
+      "premium",
+      "handcrafted",
+      "professional-grade"
+    ],
+    "category": "Music",
+    "metadata": {
+      "price": 340.86,
+      "rating": 4.6,
+      "stock": 95
+    },
+    "search_document": "Practice Violin. Innovative violin with advanced features. Tags: vintage, premium, handcrafted, professional-grade. Category: Music. Price: $340.86. Rating: 4.6/5. Stock: 95 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 160,
+    "title": "All Ages Doll",
+    "description": "Compact doll ideal for limited spaces",
+    "tags": [
+      "outdoor",
+      "collectible",
+      "educational",
+      "indoor"
+    ],
+    "category": "Toys",
+    "metadata": {
+      "price": 158.87,
+      "rating": 4.6,
+      "stock": 100
+    },
+    "search_document": "All Ages Doll. Compact doll ideal for limited spaces. Tags: outdoor, collectible, educational, indoor. Category: Toys. Price: $158.87. Rating: 4.6/5. Stock: 100 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 161,
+    "title": "Automatic Sprinkler",
+    "description": "Versatile sprinkler suitable for multiple purposes",
+    "tags": [
+      "sustainable",
+      "weather-resistant",
+      "compact"
+    ],
+    "category": "Garden",
+    "metadata": {
+      "price": 210.01,
+      "rating": 4.4,
+      "stock": 78
+    },
+    "search_document": "Automatic Sprinkler. Versatile sprinkler suitable for multiple purposes. Tags: sustainable, weather-resistant, compact. Category: Garden. Price: $210.01. Rating: 4.4/5. Stock: 78 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 162,
+    "title": "Health Dictionary",
+    "description": "Versatile dictionary suitable for multiple purposes",
+    "tags": [
+      "hardcover",
+      "paperback",
+      "comprehensive",
+      "modern",
+      "illustrated"
+    ],
+    "category": "Books",
+    "metadata": {
+      "price": 448.45,
+      "rating": 4.3,
+      "stock": 58
+    },
+    "search_document": "Health Dictionary. Versatile dictionary suitable for multiple purposes. Tags: hardcover, paperback, comprehensive, modern, illustrated. Category: Books. Price: $448.45. Rating: 4.3/5. Stock: 58 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 163,
+    "title": "Casual Shirt",
+    "description": "Versatile shirt suitable for multiple purposes",
+    "tags": [
+      "stretchable",
+      "durable",
+      "designer",
+      "waterproof"
+    ],
+    "category": "Clothing",
+    "metadata": {
+      "price": 498.63,
+      "rating": 4.2,
+      "stock": 34
+    },
+    "search_document": "Casual Shirt. Versatile shirt suitable for multiple purposes. Tags: stretchable, durable, designer, waterproof. Category: Clothing. Price: $498.63. Rating: 4.2/5. Stock: 34 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 164,
+    "title": "Teens Plane",
+    "description": "High-quality plane perfect for everyday use",
+    "tags": [
+      "indoor",
+      "creative",
+      "electronic"
+    ],
+    "category": "Toys",
+    "metadata": {
+      "price": 309.73,
+      "rating": 4.2,
+      "stock": 27
+    },
+    "search_document": "Teens Plane. High-quality plane perfect for everyday use. Tags: indoor, creative, electronic. Category: Toys. Price: $309.73. Rating: 4.2/5. Stock: 27 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 165,
+    "title": "Football Bike",
+    "description": "Premium bike designed for maximum comfort and performance",
+    "tags": [
+      "adjustable",
+      "lightweight",
+      "outdoor"
+    ],
+    "category": "Sports",
+    "metadata": {
+      "price": 212.61,
+      "rating": 3.8,
+      "stock": 44
+    },
+    "search_document": "Football Bike. Premium bike designed for maximum comfort and performance. Tags: adjustable, lightweight, outdoor. Category: Sports. Price: $212.61. Rating: 3.8/5. Stock: 44 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 166,
+    "title": "Electric Sprinkler",
+    "description": "Innovative sprinkler with advanced features",
+    "tags": [
+      "durable",
+      "biodegradable",
+      "expandable"
+    ],
+    "category": "Garden",
+    "metadata": {
+      "price": 495.14,
+      "rating": 4.7,
+      "stock": 45
+    },
+    "search_document": "Electric Sprinkler. Innovative sprinkler with advanced features. Tags: durable, biodegradable, expandable. Category: Garden. Price: $495.14. Rating: 4.7/5. Stock: 45 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 167,
+    "title": "Organic Chocolate",
+    "description": "Innovative chocolate with advanced features",
+    "tags": [
+      "traditional",
+      "exotic",
+      "gourmet",
+      "delicious",
+      "nutritious"
+    ],
+    "category": "Food",
+    "metadata": {
+      "price": 186.24,
+      "rating": 4.1,
+      "stock": 68
+    },
+    "search_document": "Organic Chocolate. Innovative chocolate with advanced features. Tags: traditional, exotic, gourmet, delicious, nutritious. Category: Food. Price: $186.24. Rating: 4.1/5. Stock: 68 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 168,
+    "title": "Whole Grain Cheese",
+    "description": "Compact cheese ideal for limited spaces",
+    "tags": [
+      "local",
+      "instant",
+      "traditional",
+      "gourmet",
+      "homemade"
+    ],
+    "category": "Food",
+    "metadata": {
+      "price": 177.7,
+      "rating": 4.9,
+      "stock": 70
+    },
+    "search_document": "Whole Grain Cheese. Compact cheese ideal for limited spaces. Tags: local, instant, traditional, gourmet, homemade. Category: Food. Price: $177.7. Rating: 4.9/5. Stock: 70 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 169,
+    "title": "Indoor Pot",
+    "description": "Elegant pot that enhances any setting",
+    "tags": [
+      "ergonomic",
+      "compact",
+      "durable",
+      "rust-resistant"
+    ],
+    "category": "Garden",
+    "metadata": {
+      "price": 223.83,
+      "rating": 4.2,
+      "stock": 97
+    },
+    "search_document": "Indoor Pot. Elegant pot that enhances any setting. Tags: ergonomic, compact, durable, rust-resistant. Category: Garden. Price: $223.83. Rating: 4.2/5. Stock: 97 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 170,
+    "title": "Eco-Friendly Seeds",
+    "description": "Innovative seeds with advanced features",
+    "tags": [
+      "heavy-duty",
+      "ergonomic",
+      "rust-resistant"
+    ],
+    "category": "Garden",
+    "metadata": {
+      "price": 281.91,
+      "rating": 4.3,
+      "stock": 70
+    },
+    "search_document": "Eco-Friendly Seeds. Innovative seeds with advanced features. Tags: heavy-duty, ergonomic, rust-resistant. Category: Garden. Price: $281.91. Rating: 4.3/5. Stock: 70 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 171,
+    "title": "Preschool Block",
+    "description": "Premium block designed for maximum comfort and performance",
+    "tags": [
+      "electronic",
+      "indoor",
+      "collectible",
+      "creative"
+    ],
+    "category": "Toys",
+    "metadata": {
+      "price": 279.95,
+      "rating": 4.8,
+      "stock": 35
+    },
+    "search_document": "Preschool Block. Premium block designed for maximum comfort and performance. Tags: electronic, indoor, collectible, creative. Category: Toys. Price: $279.95. Rating: 4.8/5. Stock: 35 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 172,
+    "title": "Fresh Pasta",
+    "description": "Premium pasta designed for maximum comfort and performance",
+    "tags": [
+      "local",
+      "instant",
+      "exotic",
+      "nutritious",
+      "traditional"
+    ],
+    "category": "Food",
+    "metadata": {
+      "price": 493.69,
+      "rating": 4.6,
+      "stock": 24
+    },
+    "search_document": "Fresh Pasta. Premium pasta designed for maximum comfort and performance. Tags: local, instant, exotic, nutritious, traditional. Category: Food. Price: $493.69. Rating: 4.6/5. Stock: 24 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 173,
+    "title": "Football Bottle",
+    "description": "Premium bottle designed for maximum comfort and performance",
+    "tags": [
+      "durable",
+      "lightweight",
+      "adjustable"
+    ],
+    "category": "Sports",
+    "metadata": {
+      "price": 484.95,
+      "rating": 4.2,
+      "stock": 39
+    },
+    "search_document": "Football Bottle. Premium bottle designed for maximum comfort and performance. Tags: durable, lightweight, adjustable. Category: Sports. Price: $484.95. Rating: 4.2/5. Stock: 39 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 174,
+    "title": "Kids Puzzle",
+    "description": "Innovative puzzle with advanced features",
+    "tags": [
+      "interactive",
+      "wooden",
+      "outdoor"
+    ],
+    "category": "Toys",
+    "metadata": {
+      "price": 25.69,
+      "rating": 3.8,
+      "stock": 44
+    },
+    "search_document": "Kids Puzzle. Innovative puzzle with advanced features. Tags: interactive, wooden, outdoor. Category: Toys. Price: $25.69. Rating: 3.8/5. Stock: 44 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 175,
+    "title": "Professional Saxophone",
+    "description": "Professional-grade saxophone for serious users",
+    "tags": [
+      "professional-grade",
+      "affordable",
+      "handcrafted"
+    ],
+    "category": "Music",
+    "metadata": {
+      "price": 142.71,
+      "rating": 4.6,
+      "stock": 30
+    },
+    "search_document": "Professional Saxophone. Professional-grade saxophone for serious users. Tags: professional-grade, affordable, handcrafted. Category: Music. Price: $142.71. Rating: 4.6/5. Stock: 30 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 176,
+    "title": "Artisan Pasta",
+    "description": "Stylish pasta that combines form and function",
+    "tags": [
+      "delicious",
+      "imported",
+      "gourmet"
+    ],
+    "category": "Food",
+    "metadata": {
+      "price": 460.46,
+      "rating": 4.9,
+      "stock": 81
+    },
+    "search_document": "Artisan Pasta. Stylish pasta that combines form and function. Tags: delicious, imported, gourmet. Category: Food. Price: $460.46. Rating: 4.9/5. Stock: 81 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 177,
+    "title": "Toddler Train",
+    "description": "Premium train designed for maximum comfort and performance",
+    "tags": [
+      "collectible",
+      "wooden",
+      "outdoor"
+    ],
+    "category": "Toys",
+    "metadata": {
+      "price": 68.71,
+      "rating": 4.1,
+      "stock": 55
+    },
+    "search_document": "Toddler Train. Premium train designed for maximum comfort and performance. Tags: collectible, wooden, outdoor. Category: Toys. Price: $68.71. Rating: 4.1/5. Stock: 55 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 178,
+    "title": "Art Journal",
+    "description": "High-quality journal perfect for everyday use",
+    "tags": [
+      "paperback",
+      "bestseller",
+      "modern",
+      "comprehensive",
+      "reference"
+    ],
+    "category": "Books",
+    "metadata": {
+      "price": 179.41,
+      "rating": 4.6,
+      "stock": 62
+    },
+    "search_document": "Art Journal. High-quality journal perfect for everyday use. Tags: paperback, bestseller, modern, comprehensive, reference. Category: Books. Price: $179.41. Rating: 4.6/5. Stock: 62 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 179,
+    "title": "Vegan Rice",
+    "description": "High-quality rice perfect for everyday use",
+    "tags": [
+      "traditional",
+      "healthy",
+      "exotic",
+      "delicious",
+      "local"
+    ],
+    "category": "Food",
+    "metadata": {
+      "price": 57.3,
+      "rating": 4.0,
+      "stock": 72
+    },
+    "search_document": "Vegan Rice. High-quality rice perfect for everyday use. Tags: traditional, healthy, exotic, delicious, local. Category: Food. Price: $57.3. Rating: 4.0/5. Stock: 72 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 180,
+    "title": "Fresh Cheese",
+    "description": "Elegant cheese that enhances any setting",
+    "tags": [
+      "local",
+      "homemade",
+      "exotic",
+      "delicious",
+      "imported"
+    ],
+    "category": "Food",
+    "metadata": {
+      "price": 208.35,
+      "rating": 3.7,
+      "stock": 0
+    },
+    "search_document": "Fresh Cheese. Elegant cheese that enhances any setting. Tags: local, homemade, exotic, delicious, imported. Category: Food. Price: $208.35. Rating: 3.7/5. Stock: 0 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 181,
+    "title": "Traditional Vase",
+    "description": "Innovative vase with advanced features",
+    "tags": [
+      "space-saving",
+      "metal",
+      "glass",
+      "elegant"
+    ],
+    "category": "Home",
+    "metadata": {
+      "price": 320.17,
+      "rating": 3.6,
+      "stock": 33
+    },
+    "search_document": "Traditional Vase. Innovative vase with advanced features. Tags: space-saving, metal, glass, elegant. Category: Home. Price: $320.17. Rating: 3.6/5. Stock: 33 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 182,
+    "title": "Digital Headphones",
+    "description": "Durable headphones built to last",
+    "tags": [
+      "professional",
+      "gaming",
+      "premium",
+      "portable",
+      "bluetooth"
+    ],
+    "category": "Electronics",
+    "metadata": {
+      "price": 24.78,
+      "rating": 4.9,
+      "stock": 29
+    },
+    "search_document": "Digital Headphones. Durable headphones built to last. Tags: professional, gaming, premium, portable, bluetooth. Category: Electronics. Price: $24.78. Rating: 4.9/5. Stock: 29 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 183,
+    "title": "History Cookbook",
+    "description": "Compact cookbook ideal for limited spaces",
+    "tags": [
+      "hardcover",
+      "illustrated",
+      "paperback"
+    ],
+    "category": "Books",
+    "metadata": {
+      "price": 477.39,
+      "rating": 3.9,
+      "stock": 66
+    },
+    "search_document": "History Cookbook. Compact cookbook ideal for limited spaces. Tags: hardcover, illustrated, paperback. Category: Books. Price: $477.39. Rating: 3.9/5. Stock: 66 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 184,
+    "title": "Frozen Tea",
+    "description": "Versatile tea suitable for multiple purposes",
+    "tags": [
+      "exotic",
+      "gourmet",
+      "nutritious",
+      "delicious",
+      "healthy"
+    ],
+    "category": "Food",
+    "metadata": {
+      "price": 415.29,
+      "rating": 4.7,
+      "stock": 4
+    },
+    "search_document": "Frozen Tea. Versatile tea suitable for multiple purposes. Tags: exotic, gourmet, nutritious, delicious, healthy. Category: Food. Price: $415.29. Rating: 4.7/5. Stock: 4 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 185,
+    "title": "Travel Dictionary",
+    "description": "High-quality dictionary perfect for everyday use",
+    "tags": [
+      "bestseller",
+      "comprehensive",
+      "digital",
+      "classic"
+    ],
+    "category": "Books",
+    "metadata": {
+      "price": 425.56,
+      "rating": 4.7,
+      "stock": 59
+    },
+    "search_document": "Travel Dictionary. High-quality dictionary perfect for everyday use. Tags: bestseller, comprehensive, digital, classic. Category: Books. Price: $425.56. Rating: 4.7/5. Stock: 59 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 186,
+    "title": "Organic Tea",
+    "description": "Compact tea ideal for limited spaces",
+    "tags": [
+      "gourmet",
+      "homemade",
+      "local"
+    ],
+    "category": "Food",
+    "metadata": {
+      "price": 311.87,
+      "rating": 3.9,
+      "stock": 22
+    },
+    "search_document": "Organic Tea. Compact tea ideal for limited spaces. Tags: gourmet, homemade, local. Category: Food. Price: $311.87. Rating: 3.9/5. Stock: 22 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 187,
+    "title": "Science Novel",
+    "description": "Durable novel built to last",
+    "tags": [
+      "comprehensive",
+      "modern",
+      "educational",
+      "digital"
+    ],
+    "category": "Books",
+    "metadata": {
+      "price": 163.82,
+      "rating": 4.7,
+      "stock": 24
+    },
+    "search_document": "Science Novel. Durable novel built to last. Tags: comprehensive, modern, educational, digital. Category: Books. Price: $163.82. Rating: 4.7/5. Stock: 24 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 188,
+    "title": "Vintage Sweater",
+    "description": "Innovative sweater with advanced features",
+    "tags": [
+      "designer",
+      "cotton",
+      "eco-friendly",
+      "handmade",
+      "waterproof"
+    ],
+    "category": "Clothing",
+    "metadata": {
+      "price": 234.86,
+      "rating": 4.5,
+      "stock": 96
+    },
+    "search_document": "Vintage Sweater. Innovative sweater with advanced features. Tags: designer, cotton, eco-friendly, handmade, waterproof. Category: Clothing. Price: $234.86. Rating: 4.5/5. Stock: 96 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 189,
+    "title": "TechPro Smartwatch",
+    "description": "High-quality smartwatch perfect for everyday use",
+    "tags": [
+      "professional",
+      "gaming",
+      "compact"
+    ],
+    "category": "Electronics",
+    "metadata": {
+      "price": 241.03,
+      "rating": 4.0,
+      "stock": 20
+    },
+    "search_document": "TechPro Smartwatch. High-quality smartwatch perfect for everyday use. Tags: professional, gaming, compact. Category: Electronics. Price: $241.03. Rating: 4.0/5. Stock: 20 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 190,
+    "title": "Anti-Aging Lipstick",
+    "description": "Stylish lipstick that combines form and function",
+    "tags": [
+      "natural",
+      "cruelty-free",
+      "vegan",
+      "clinical",
+      "organic"
+    ],
+    "category": "Beauty",
+    "metadata": {
+      "price": 244.4,
+      "rating": 5.0,
+      "stock": 44
+    },
+    "search_document": "Anti-Aging Lipstick. Stylish lipstick that combines form and function. Tags: natural, cruelty-free, vegan, clinical, organic. Category: Beauty. Price: $244.4. Rating: 5.0/5. Stock: 44 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 191,
+    "title": "Modern Jeans",
+    "description": "Elegant jeans that enhances any setting",
+    "tags": [
+      "breathable",
+      "lightweight",
+      "leather",
+      "eco-friendly"
+    ],
+    "category": "Clothing",
+    "metadata": {
+      "price": 151.47,
+      "rating": 4.9,
+      "stock": 43
+    },
+    "search_document": "Modern Jeans. Elegant jeans that enhances any setting. Tags: breathable, lightweight, leather, eco-friendly. Category: Clothing. Price: $151.47. Rating: 4.9/5. Stock: 43 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 192,
+    "title": "Trendy Jeans",
+    "description": "Premium jeans designed for maximum comfort and performance",
+    "tags": [
+      "handmade",
+      "designer",
+      "leather",
+      "waterproof",
+      "stretchable"
+    ],
+    "category": "Clothing",
+    "metadata": {
+      "price": 419.1,
+      "rating": 4.4,
+      "stock": 82
+    },
+    "search_document": "Trendy Jeans. Premium jeans designed for maximum comfort and performance. Tags: handmade, designer, leather, waterproof, stretchable. Category: Clothing. Price: $419.1. Rating: 4.4/5. Stock: 82 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 193,
+    "title": "Technology Journal",
+    "description": "Professional-grade journal for serious users",
+    "tags": [
+      "comprehensive",
+      "bestseller",
+      "educational"
+    ],
+    "category": "Books",
+    "metadata": {
+      "price": 317.16,
+      "rating": 4.2,
+      "stock": 23
+    },
+    "search_document": "Technology Journal. Professional-grade journal for serious users. Tags: comprehensive, bestseller, educational. Category: Books. Price: $317.16. Rating: 4.2/5. Stock: 23 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 194,
+    "title": "Minimalist Mirror",
+    "description": "Professional-grade mirror for serious users",
+    "tags": [
+      "decorative",
+      "glass",
+      "space-saving",
+      "elegant",
+      "wooden"
+    ],
+    "category": "Home",
+    "metadata": {
+      "price": 14.47,
+      "rating": 4.7,
+      "stock": 16
+    },
+    "search_document": "Minimalist Mirror. Professional-grade mirror for serious users. Tags: decorative, glass, space-saving, elegant, wooden. Category: Home. Price: $14.47. Rating: 4.7/5. Stock: 16 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 195,
+    "title": "Soothing Conditioner",
+    "description": "High-quality conditioner perfect for everyday use",
+    "tags": [
+      "luxury",
+      "clinical",
+      "natural",
+      "paraben-free",
+      "hypoallergenic"
+    ],
+    "category": "Beauty",
+    "metadata": {
+      "price": 245.51,
+      "rating": 4.2,
+      "stock": 97
+    },
+    "search_document": "Soothing Conditioner. High-quality conditioner perfect for everyday use. Tags: luxury, clinical, natural, paraben-free, hypoallergenic. Category: Beauty. Price: $245.51. Rating: 4.2/5. Stock: 97 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 196,
+    "title": "Nourishing Spray",
+    "description": "Innovative spray with advanced features",
+    "tags": [
+      "luxury",
+      "natural",
+      "fragrance-free"
+    ],
+    "category": "Beauty",
+    "metadata": {
+      "price": 102.79,
+      "rating": 4.5,
+      "stock": 56
+    },
+    "search_document": "Nourishing Spray. Innovative spray with advanced features. Tags: luxury, natural, fragrance-free. Category: Beauty. Price: $102.79. Rating: 4.5/5. Stock: 56 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 197,
+    "title": "Art Guide",
+    "description": "Innovative guide with advanced features",
+    "tags": [
+      "modern",
+      "illustrated",
+      "hardcover"
+    ],
+    "category": "Books",
+    "metadata": {
+      "price": 157.85,
+      "rating": 4.0,
+      "stock": 42
+    },
+    "search_document": "Art Guide. Innovative guide with advanced features. Tags: modern, illustrated, hardcover. Category: Books. Price: $157.85. Rating: 4.0/5. Stock: 42 units.",
+    "llm_keywords": "1. Art\n2. Guide\n3. Modern\n4. Illustrated\n5. Hardcover\n6. Advanced\n7. Features\n8. Book\n9. Price\n10. Rating"
+  },
+  {
+    "id": 198,
+    "title": "Premium Rice",
+    "description": "Stylish rice that combines form and function",
+    "tags": [
+      "nutritious",
+      "local",
+      "healthy",
+      "imported",
+      "homemade"
+    ],
+    "category": "Food",
+    "metadata": {
+      "price": 422.95,
+      "rating": 3.9,
+      "stock": 42
+    },
+    "search_document": "Premium Rice. Stylish rice that combines form and function. Tags: nutritious, local, healthy, imported, homemade. Category: Food. Price: $422.95. Rating: 3.9/5. Stock: 42 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 199,
+    "title": "Technology Atlas",
+    "description": "Durable atlas built to last",
+    "tags": [
+      "educational",
+      "illustrated",
+      "bestseller"
+    ],
+    "category": "Books",
+    "metadata": {
+      "price": 230.45,
+      "rating": 5.0,
+      "stock": 37
+    },
+    "search_document": "Technology Atlas. Durable atlas built to last. Tags: educational, illustrated, bestseller. Category: Books. Price: $230.45. Rating: 5.0/5. Stock: 37 units.",
+    "llm_keywords": ""
+  },
+  {
+    "id": 200,
+    "title": "Stage Amplifier",
+    "description": "Innovative amplifier with advanced features",
+    "tags": [
+      "handcrafted",
+      "vintage",
+      "modern"
+    ],
+    "category": "Music",
+    "metadata": {
+      "price": 52.94,
+      "rating": 4.6,
+      "stock": 41
+    },
+    "search_document": "Stage Amplifier. Innovative amplifier with advanced features. Tags: handcrafted, vintage, modern. Category: Music. Price: $52.94. Rating: 4.6/5. Stock: 41 units.",
+    "llm_keywords": "Stage Amplifier, Handcrafted, Vintage, Modern, Music, Advanced, Features, Innovative, 4.6/5, $52.94."
+  }
+]
