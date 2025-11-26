@@ -6,7 +6,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import re
 
-API_KEY = "csk-d45v9f85n3k98tf89m5e6rfrh5dtnk6r9pn3j5fkmhe2wy43"
+API_KEY = "YOUR_CEREBRAS_API_KEY_HERE"  # Replace with your Cerebras API key
 
 class HybridSearchEngine:
     def __init__(self):

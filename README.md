@@ -40,8 +40,8 @@ VENTI implements a sophisticated hybrid search algorithm that combines:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/venti-search-engine.git
-cd venti-search-engine
+git clone https://github.com/carsch/VENTII.git
+cd VENTII
 
 # Create virtual environment
 python3 -m venv venv

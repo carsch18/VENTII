@@ -2,8 +2,9 @@ import json
 import requests
 import numpy as np
 from sklearn.feature_extraction.text import TfidfVectorizer
+import pickle
 
-API_KEY = "csk-d45v9f85n3k98tf89m5e6rfrh5dtnk6r9pn3j5fkmhe2wy43"
+API_KEY = "YOUR_CEREBRAS_API_KEY_HERE"  # Replace with your Cerebras API key
 
 def get_embedding_from_llm(text):
     """Generate embedding using Cerebras LLM response as vector"""

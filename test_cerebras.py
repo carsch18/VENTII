@@ -1,7 +1,7 @@
 import requests
 import json
 
-API_KEY = "csk-d45v9f85n3k98tf89m5e6rfrh5dtnk6r9pn3j5fkmhe2wy43"
+API_KEY = "csk------------------------"
 
 # Test chat completion
 url = "https://api.cerebras.ai/v1/chat/completions"
